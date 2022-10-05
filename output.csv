@@ -1,0 +1,2501 @@
+,lsoa_code,borough,major_category,minor_category,value,year,month
+0,E01000156,Barnet,Sexual Offences,Rape,0,2008,8
+1,E01001331,Ealing,Sexual Offences,Rape,0,2008,6
+2,E01000591,Brent,Sexual Offences,Rape,0,2008,11
+3,E01000550,Brent,Sexual Offences,Rape,0,2008,4
+4,E01000562,Brent,Sexual Offences,Rape,0,2008,5
+5,E01000619,Brent,Sexual Offences,Rape,0,2008,2
+6,E01000932,Camden,Sexual Offences,Rape,0,2008,6
+7,E01001309,Ealing,Sexual Offences,Rape,0,2008,9
+8,E01001309,Ealing,Sexual Offences,Rape,0,2008,10
+9,E01000526,Brent,Sexual Offences,Rape,0,2008,3
+10,E01000478,Brent,Sexual Offences,Rape,0,2008,3
+11,E01000471,Brent,Sexual Offences,Rape,0,2008,12
+12,E01000471,Brent,Sexual Offences,Rape,0,2008,1
+13,E01000619,Brent,Sexual Offences,Rape,0,2008,4
+14,E01000314,Barnet,Sexual Offences,Rape,1,2008,2
+15,E01000619,Brent,Sexual Offences,Rape,0,2008,12
+16,E01001273,Ealing,Sexual Offences,Rape,0,2008,11
+17,E01000550,Brent,Sexual Offences,Rape,0,2008,5
+18,E01000630,Brent,Sexual Offences,Rape,0,2008,8
+19,E01000562,Brent,Sexual Offences,Rape,0,2008,7
+20,E01000291,Barnet,Sexual Offences,Rape,0,2008,6
+21,E01000932,Camden,Sexual Offences,Rape,0,2008,8
+22,E01000848,Camden,Sexual Offences,Rape,0,2008,8
+23,E01001301,Ealing,Sexual Offences,Rape,0,2008,9
+24,E01002219,Harrow,Sexual Offences,Rape,1,2008,1
+25,E01002143,Harrow,Sexual Offences,Rape,0,2008,5
+26,E01003407,Merton,Sexual Offences,Rape,0,2008,7
+27,E01003431,Merton,Sexual Offences,Rape,0,2008,12
+28,E01002110,Harrow,Sexual Offences,Rape,0,2008,9
+29,E01003368,Merton,Sexual Offences,Rape,0,2008,9
+30,E01003619,Newham,Sexual Offences,Rape,0,2008,8
+31,E01000783,Bromley,Sexual Offences,Rape,0,2008,1
+32,E01000478,Brent,Sexual Offences,Rape,0,2008,12
+33,E01002107,Harrow,Sexual Offences,Rape,0,2008,8
+34,E01002107,Harrow,Sexual Offences,Rape,0,2008,5
+35,E01003609,Newham,Sexual Offences,Rape,0,2008,7
+36,E01000824,Bromley,Sexual Offences,Rape,0,2008,11
+37,E01002110,Harrow,Sexual Offences,Rape,0,2008,3
+38,E01002219,Harrow,Sexual Offences,Rape,0,2008,10
+39,E01003368,Merton,Sexual Offences,Rape,0,2008,4
+40,E01000783,Bromley,Sexual Offences,Rape,0,2008,10
+41,E01002231,Harrow,Sexual Offences,Rape,0,2008,5
+42,E01002236,Harrow,Sexual Offences,Rape,0,2008,11
+43,E01003381,Merton,Sexual Offences,Rape,0,2008,1
+44,E01003619,Newham,Sexual Offences,Rape,0,2008,1
+45,E01003496,Newham,Sexual Offences,Rape,0,2008,3
+46,E01000743,Bromley,Sexual Offences,Rape,0,2008,11
+47,E01000783,Bromley,Sexual Offences,Rape,0,2008,3
+48,E01000783,Bromley,Sexual Offences,Rape,0,2008,12
+49,E01002236,Harrow,Sexual Offences,Rape,0,2008,6
+50,E01003407,Merton,Sexual Offences,Rape,0,2008,8
+51,E01003531,Newham,Sexual Offences,Rape,0,2008,4
+52,E01003496,Newham,Sexual Offences,Rape,0,2008,12
+53,E01004191,Sutton,Sexual Offences,Rape,0,2008,10
+54,E01000990,Croydon,Sexual Offences,Rape,0,2008,8
+55,E01001763,Hackney,Sexual Offences,Rape,0,2008,11
+56,E01001726,Hackney,Sexual Offences,Rape,0,2008,1
+57,E01001832,Hackney,Sexual Offences,Rape,0,2008,11
+58,E01001781,Hackney,Sexual Offences,Rape,0,2008,11
+59,E01003029,Lambeth,Sexual Offences,Rape,0,2008,8
+60,E01003531,Newham,Sexual Offences,Rape,1,2008,2
+61,E01003496,Newham,Sexual Offences,Rape,0,2008,11
+62,E01003551,Newham,Sexual Offences,Rape,0,2008,11
+63,E01001165,Croydon,Sexual Offences,Rape,1,2008,1
+64,E01001008,Croydon,Sexual Offences,Rape,1,2008,1
+65,E01001062,Croydon,Sexual Offences,Rape,0,2008,2
+66,E01001392,Enfield,Sexual Offences,Rape,0,2008,7
+67,E01001720,Hackney,Sexual Offences,Rape,0,2008,6
+68,E01001181,Croydon,Sexual Offences,Rape,0,2008,7
+69,E01001010,Croydon,Sexual Offences,Rape,0,2008,10
+70,E01003119,Lambeth,Sexual Offences,Rape,0,2008,12
+71,E01003386,Merton,Sexual Offences,Rape,0,2008,11
+72,E01001971,Haringey,Sexual Offences,Rape,0,2008,11
+73,E01002082,Haringey,Sexual Offences,Rape,0,2008,8
+74,E01002061,Haringey,Sexual Offences,Rape,0,2008,8
+75,E01002287,Havering,Sexual Offences,Rape,0,2008,10
+76,E01002292,Havering,Sexual Offences,Rape,0,2008,10
+77,E01002569,Hounslow,Sexual Offences,Rape,1,2008,2
+78,E01003291,Lewisham,Sexual Offences,Rape,0,2008,9
+79,E01003260,Lewisham,Sexual Offences,Rape,0,2008,11
+80,E01003203,Lewisham,Sexual Offences,Rape,0,2008,7
+81,E01001625,Greenwich,Sexual Offences,Rape,1,2008,1
+82,E01001578,Greenwich,Sexual Offences,Rape,0,2008,2
+83,E01002062,Haringey,Sexual Offences,Rape,0,2008,8
+84,E01002003,Haringey,Sexual Offences,Rape,0,2008,5
+85,E01002003,Haringey,Sexual Offences,Rape,0,2008,4
+86,E01003248,Lewisham,Sexual Offences,Rape,0,2008,7
+87,E01003336,Lewisham,Sexual Offences,Rape,0,2008,5
+88,E01001043,Croydon,Sexual Offences,Rape,0,2008,11
+89,E01001117,Croydon,Sexual Offences,Rape,0,2008,8
+90,E01001115,Croydon,Sexual Offences,Rape,0,2008,5
+91,E01001477,Enfield,Sexual Offences,Rape,0,2008,9
+92,E01001516,Enfield,Sexual Offences,Rape,0,2008,3
+93,E01001763,Hackney,Sexual Offences,Rape,0,2008,8
+94,E01001840,Hackney,Sexual Offences,Rape,0,2008,10
+95,E01003106,Lambeth,Sexual Offences,Rape,0,2008,12
+96,E01001057,Croydon,Sexual Offences,Rape,0,2008,12
+97,E01001092,Croydon,Sexual Offences,Rape,0,2008,3
+98,E01001042,Croydon,Sexual Offences,Rape,0,2008,5
+99,E01003018,Lambeth,Sexual Offences,Rape,0,2008,11
+100,E01002067,Haringey,Sexual Offences,Rape,0,2008,4
+101,E01003232,Lewisham,Sexual Offences,Rape,0,2008,9
+102,E01003264,Lewisham,Sexual Offences,Rape,0,2008,9
+103,E01003336,Lewisham,Sexual Offences,Rape,0,2008,9
+104,E01001637,Greenwich,Sexual Offences,Rape,0,2008,7
+105,E01002067,Haringey,Sexual Offences,Rape,0,2008,5
+106,E01002568,Hounslow,Sexual Offences,Rape,0,2008,9
+107,E01003232,Lewisham,Sexual Offences,Rape,0,2008,4
+108,E01003264,Lewisham,Sexual Offences,Rape,0,2008,4
+109,E01003786,Redbridge,Sexual Offences,Rape,0,2008,8
+110,E01003772,Redbridge,Sexual Offences,Rape,0,2008,8
+111,E01002487,Hillingdon,Sexual Offences,Rape,0,2008,5
+112,E01004551,Wandsworth,Sexual Offences,Rape,0,2008,3
+113,E01004024,Southwark,Sexual Offences,Rape,0,2008,12
+114,E01004027,Southwark,Sexual Offences,Rape,0,2008,7
+115,E01004508,Wandsworth,Sexual Offences,Rape,0,2008,7
+116,E01001981,Haringey,Sexual Offences,Rape,0,2008,12
+117,E01001971,Haringey,Sexual Offences,Rape,0,2008,9
+118,E01002003,Haringey,Sexual Offences,Rape,0,2008,10
+119,E01002066,Haringey,Sexual Offences,Rape,0,2008,9
+120,E01003256,Lewisham,Sexual Offences,Rape,0,2008,6
+121,E01001578,Greenwich,Sexual Offences,Rape,0,2008,7
+122,E01003700,Redbridge,Sexual Offences,Rape,1,2008,1
+123,E01004070,Southwark,Sexual Offences,Rape,0,2008,7
+124,E01004070,Southwark,Sexual Offences,Rape,0,2008,4
+125,E01002455,Hillingdon,Sexual Offences,Rape,0,2008,4
+126,E01004550,Wandsworth,Sexual Offences,Rape,0,2008,1
+127,E01002067,Haringey,Sexual Offences,Rape,0,2008,8
+128,E01002066,Haringey,Sexual Offences,Rape,0,2008,8
+129,E01002062,Haringey,Sexual Offences,Rape,0,2008,12
+130,E01002292,Havering,Sexual Offences,Rape,0,2008,11
+131,E01003264,Lewisham,Sexual Offences,Rape,0,2008,12
+132,E01003203,Lewisham,Sexual Offences,Rape,1,2008,1
+133,E01002393,Hillingdon,Sexual Offences,Rape,0,2008,12
+134,E01004601,Wandsworth,Sexual Offences,Rape,0,2008,8
+135,E01004740,Westminster,Sexual Offences,Rape,0,2008,10
+136,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2008,11
+137,E01004311,Tower Hamlets,Sexual Offences,Rape,1,2008,2
+138,E01002822,Kensington and Chelsea,Sexual Offences,Rape,0,2008,6
+139,E01001165,Croydon,Sexual Offences,Rape,0,2008,8
+140,E01001181,Croydon,Sexual Offences,Rape,0,2008,5
+141,E01001392,Enfield,Sexual Offences,Rape,1,2008,2
+142,E01001755,Hackney,Sexual Offences,Rape,0,2008,4
+143,E01001843,Hackney,Sexual Offences,Rape,0,2008,12
+144,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2008,4
+145,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2008,1
+146,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2008,1
+147,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2008,7
+148,E01004342,Waltham Forest,Sexual Offences,Rape,0,2008,9
+149,E01002994,Kingston upon Thames,Sexual Offences,Rape,0,2008,9
+150,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2008,11
+151,E01002994,Kingston upon Thames,Sexual Offences,Rape,0,2008,11
+152,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2008,3
+153,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2008,6
+154,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2008,9
+155,E01004378,Waltham Forest,Sexual Offences,Rape,1,2008,2
+156,E01002784,Islington,Sexual Offences,Rape,0,2008,10
+157,E01004601,Wandsworth,Sexual Offences,Rape,0,2008,1
+158,E01004509,Wandsworth,Sexual Offences,Rape,0,2008,6
+159,E01002848,Kensington and Chelsea,Sexual Offences,Rape,0,2008,7
+160,E01002713,Islington,Sexual Offences,Rape,0,2008,10
+161,E01003689,Redbridge,Sexual Offences,Rape,0,2008,7
+162,E01004006,Southwark,Sexual Offences,Rape,0,2008,4
+163,E01004551,Wandsworth,Sexual Offences,Rape,0,2008,4
+164,E01002089,Haringey,Sexual Offences,Rape,1,2008,2
+165,E01002062,Haringey,Sexual Offences,Rape,0,2008,9
+166,E01002287,Havering,Sexual Offences,Rape,0,2008,3
+167,E01002560,Hounslow,Sexual Offences,Rape,0,2008,9
+168,E01002583,Hounslow,Sexual Offences,Rape,1,2008,1
+169,E01003203,Lewisham,Sexual Offences,Rape,0,2008,5
+170,E01003312,Lewisham,Sexual Offences,Rape,0,2008,1
+171,E01003256,Lewisham,Sexual Offences,Rape,0,2008,5
+172,E01001646,Greenwich,Sexual Offences,Rape,0,2008,6
+173,E01004735,Westminster,Sexual Offences,Rape,0,2008,12
+174,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2008,11
+175,E01004339,Waltham Forest,Sexual Offences,Rape,0,2008,11
+176,E01004378,Waltham Forest,Sexual Offences,Rape,0,2008,10
+177,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2008,4
+178,E01002993,Kingston upon Thames,Sexual Offences,Rape,1,2008,1
+179,E01004272,Tower Hamlets,Sexual Offences,Rape,1,2008,2
+180,E01004339,Waltham Forest,Sexual Offences,Rape,0,2008,5
+181,E01004378,Waltham Forest,Sexual Offences,Rape,0,2008,7
+182,E01000093,Barking and Dagenham,Sexual Offences,Rape,1,2008,2
+183,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2008,5
+184,E01002713,Islington,Sexual Offences,Rape,0,2008,6
+185,E01002730,Islington,Sexual Offences,Rape,0,2008,8
+186,E01003772,Redbridge,Sexual Offences,Rape,0,2008,3
+187,E01003700,Redbridge,Sexual Offences,Rape,0,2008,4
+188,E01004528,Wandsworth,Sexual Offences,Rape,0,2008,9
+189,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2008,4
+190,E01001877,Hammersmith and Fulham,Sexual Offences,Rape,0,2008,7
+191,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2008,3
+192,E01004385,Waltham Forest,Sexual Offences,Rape,1,2008,1
+193,E01004336,Waltham Forest,Sexual Offences,Rape,0,2008,7
+194,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2008,6
+195,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2008,3
+196,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2008,2
+197,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2008,5
+198,E01000570,Brent,Sexual Offences,Rape,0,2009,12
+199,E01000619,Brent,Sexual Offences,Rape,0,2009,12
+200,E01000156,Barnet,Sexual Offences,Rape,0,2009,2
+201,E01000478,Brent,Sexual Offences,Rape,0,2009,12
+202,E01000255,Barnet,Sexual Offences,Rape,0,2009,5
+203,E01000637,Brent,Sexual Offences,Rape,0,2009,3
+204,E01000526,Brent,Sexual Offences,Rape,0,2009,1
+205,E01000478,Brent,Sexual Offences,Rape,0,2009,2
+206,E01000294,Barnet,Sexual Offences,Rape,0,2009,2
+207,E01000314,Barnet,Sexual Offences,Rape,0,2009,7
+208,E01000848,Camden,Sexual Offences,Rape,0,2009,10
+209,E01000630,Brent,Sexual Offences,Rape,0,2009,8
+210,E01000526,Brent,Sexual Offences,Rape,0,2009,5
+211,E01000156,Barnet,Sexual Offences,Rape,0,2009,4
+212,E01000384,Bexley,Sexual Offences,Rape,0,2009,9
+213,E01000591,Brent,Sexual Offences,Rape,0,2009,8
+214,E01000562,Brent,Sexual Offences,Rape,0,2009,5
+215,E01000848,Camden,Sexual Offences,Rape,0,2009,5
+216,E01000853,Camden,Sexual Offences,Rape,0,2009,1
+217,E01001373,Ealing,Sexual Offences,Rape,0,2009,9
+218,E01003381,Merton,Sexual Offences,Rape,0,2009,4
+219,E01003608,Newham,Sexual Offences,Rape,0,2009,12
+220,E01003531,Newham,Sexual Offences,Rape,0,2009,4
+221,E01003591,Newham,Sexual Offences,Rape,0,2009,4
+222,E01003633,Newham,Sexual Offences,Rape,0,2009,2
+223,E01003609,Newham,Sexual Offences,Rape,0,2009,11
+224,E01000471,Brent,Sexual Offences,Rape,0,2009,10
+225,E01000570,Brent,Sexual Offences,Rape,0,2009,2
+226,E01000291,Barnet,Sexual Offences,Rape,0,2009,6
+227,E01000384,Bexley,Sexual Offences,Rape,0,2009,8
+228,E01002236,Harrow,Sexual Offences,Rape,0,2009,9
+229,E01002110,Harrow,Sexual Offences,Rape,0,2009,7
+230,E01003551,Newham,Sexual Offences,Rape,0,2009,6
+231,E01000783,Bromley,Sexual Offences,Rape,0,2009,5
+232,E01000743,Bromley,Sexual Offences,Rape,0,2009,6
+233,E01003388,Merton,Sexual Offences,Rape,0,2009,12
+234,E01000824,Bromley,Sexual Offences,Rape,0,2009,4
+235,E01000824,Bromley,Sexual Offences,Rape,0,2009,7
+236,E01000824,Bromley,Sexual Offences,Rape,0,2009,10
+237,E01002216,Harrow,Sexual Offences,Rape,0,2009,5
+238,E01002107,Harrow,Sexual Offences,Rape,0,2009,6
+239,E01003619,Newham,Sexual Offences,Rape,0,2009,1
+240,E01003591,Newham,Sexual Offences,Rape,0,2009,12
+241,E01001181,Croydon,Sexual Offences,Rape,0,2009,11
+242,E01001563,Enfield,Sexual Offences,Rape,0,2009,2
+243,E01001392,Enfield,Sexual Offences,Rape,0,2009,5
+244,E01001808,Hackney,Sexual Offences,Rape,0,2009,8
+245,E01001781,Hackney,Sexual Offences,Rape,0,2009,2
+246,E01003026,Lambeth,Sexual Offences,Rape,0,2009,2
+247,E01003162,Lambeth,Sexual Offences,Rape,0,2009,12
+248,E01003119,Lambeth,Sexual Offences,Rape,0,2009,11
+249,E01001781,Hackney,Sexual Offences,Rape,0,2009,9
+250,E01001755,Hackney,Sexual Offences,Rape,0,2009,4
+251,E01001781,Hackney,Sexual Offences,Rape,0,2009,11
+252,E01003106,Lambeth,Sexual Offences,Rape,0,2009,10
+253,E01003186,Lambeth,Sexual Offences,Rape,0,2009,9
+254,E01003095,Lambeth,Sexual Offences,Rape,0,2009,2
+255,E01003631,Newham,Sexual Offences,Rape,0,2009,6
+256,E01003496,Newham,Sexual Offences,Rape,0,2009,2
+257,E01001010,Croydon,Sexual Offences,Rape,0,2009,2
+258,E01001000,Croydon,Sexual Offences,Rape,0,2009,9
+259,E01001549,Enfield,Sexual Offences,Rape,0,2009,10
+260,E01001720,Hackney,Sexual Offences,Rape,0,2009,11
+261,E01003106,Lambeth,Sexual Offences,Rape,0,2009,2
+262,E01003120,Lambeth,Sexual Offences,Rape,0,2009,10
+263,E01002216,Harrow,Sexual Offences,Rape,0,2009,12
+264,E01003608,Newham,Sexual Offences,Rape,0,2009,11
+265,E01003595,Newham,Sexual Offences,Rape,0,2009,6
+266,E01000743,Bromley,Sexual Offences,Rape,0,2009,9
+267,E01001982,Haringey,Sexual Offences,Rape,0,2009,2
+268,E01002621,Hounslow,Sexual Offences,Rape,0,2009,12
+269,E01002569,Hounslow,Sexual Offences,Rape,0,2009,4
+270,E01003336,Lewisham,Sexual Offences,Rape,0,2009,6
+271,E01001640,Greenwich,Sexual Offences,Rape,0,2009,11
+272,E01002060,Haringey,Sexual Offences,Rape,0,2009,9
+273,E01002089,Haringey,Sexual Offences,Rape,0,2009,1
+274,E01002060,Haringey,Sexual Offences,Rape,0,2009,3
+275,E01002293,Havering,Sexual Offences,Rape,0,2009,1
+276,E01002282,Havering,Sexual Offences,Rape,0,2009,12
+277,E01002661,Hounslow,Sexual Offences,Rape,0,2009,9
+278,E01003248,Lewisham,Sexual Offences,Rape,0,2009,9
+279,E01003226,Lewisham,Sexual Offences,Rape,0,2009,7
+280,E01003312,Lewisham,Sexual Offences,Rape,0,2009,2
+281,E01003248,Lewisham,Sexual Offences,Rape,0,2009,12
+282,E01003232,Lewisham,Sexual Offences,Rape,0,2009,9
+283,E01001640,Greenwich,Sexual Offences,Rape,0,2009,2
+284,E01001625,Greenwich,Sexual Offences,Rape,0,2009,5
+285,E01000992,Croydon,Sexual Offences,Rape,0,2009,9
+286,E01003130,Lambeth,Sexual Offences,Rape,0,2009,4
+287,E01003106,Lambeth,Sexual Offences,Rape,0,2009,4
+288,E01003162,Lambeth,Sexual Offences,Rape,0,2009,8
+289,E01001115,Croydon,Sexual Offences,Rape,0,2009,10
+290,E01001763,Hackney,Sexual Offences,Rape,0,2009,10
+291,E01003106,Lambeth,Sexual Offences,Rape,0,2009,1
+292,E01002003,Haringey,Sexual Offences,Rape,0,2009,1
+293,E01002282,Havering,Sexual Offences,Rape,0,2009,3
+294,E01003302,Lewisham,Sexual Offences,Rape,0,2009,1
+295,E01003197,Lewisham,Sexual Offences,Rape,0,2009,6
+296,E01001637,Greenwich,Sexual Offences,Rape,0,2009,5
+297,E01001637,Greenwich,Sexual Offences,Rape,0,2009,8
+298,E01003026,Lambeth,Sexual Offences,Rape,0,2009,1
+299,E01002003,Haringey,Sexual Offences,Rape,0,2009,4
+300,E01001982,Haringey,Sexual Offences,Rape,0,2009,5
+301,E01002292,Havering,Sexual Offences,Rape,0,2009,1
+302,E01002604,Hounslow,Sexual Offences,Rape,0,2009,1
+303,E01002668,Hounslow,Sexual Offences,Rape,0,2009,2
+304,E01003640,Redbridge,Sexual Offences,Rape,0,2009,4
+305,E01004027,Southwark,Sexual Offences,Rape,0,2009,12
+306,E01002395,Hillingdon,Sexual Offences,Rape,0,2009,3
+307,E01004528,Wandsworth,Sexual Offences,Rape,0,2009,8
+308,E01003640,Redbridge,Sexual Offences,Rape,0,2009,9
+309,E01003689,Redbridge,Sexual Offences,Rape,0,2009,4
+310,E01003640,Redbridge,Sexual Offences,Rape,0,2009,3
+311,E01004024,Southwark,Sexual Offences,Rape,0,2009,3
+312,E01003948,Southwark,Sexual Offences,Rape,0,2009,8
+313,E01004070,Southwark,Sexual Offences,Rape,0,2009,10
+314,E01004550,Wandsworth,Sexual Offences,Rape,0,2009,7
+315,E01002066,Haringey,Sexual Offences,Rape,0,2009,10
+316,E01002066,Haringey,Sexual Offences,Rape,0,2009,7
+317,E01002062,Haringey,Sexual Offences,Rape,0,2009,12
+318,E01002569,Hounslow,Sexual Offences,Rape,0,2009,9
+319,E01003248,Lewisham,Sexual Offences,Rape,0,2009,2
+320,E01002784,Islington,Sexual Offences,Rape,0,2009,11
+321,E01003772,Redbridge,Sexual Offences,Rape,0,2009,1
+322,E01003948,Southwark,Sexual Offences,Rape,0,2009,11
+323,E01004509,Wandsworth,Sexual Offences,Rape,0,2009,10
+324,E01004615,Wandsworth,Sexual Offences,Rape,0,2009,5
+325,E01002061,Haringey,Sexual Offences,Rape,0,2009,12
+326,E01002292,Havering,Sexual Offences,Rape,0,2009,7
+327,E01002292,Havering,Sexual Offences,Rape,0,2009,3
+328,E01003291,Lewisham,Sexual Offences,Rape,0,2009,1
+329,E01001578,Greenwich,Sexual Offences,Rape,0,2009,6
+330,E01003700,Redbridge,Sexual Offences,Rape,0,2009,4
+331,E01003704,Redbridge,Sexual Offences,Rape,0,2009,6
+332,E01004070,Southwark,Sexual Offences,Rape,0,2009,12
+333,E01003972,Southwark,Sexual Offences,Rape,0,2009,11
+334,E01004550,Wandsworth,Sexual Offences,Rape,0,2009,2
+335,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2009,9
+336,E01004735,Westminster,Sexual Offences,Rape,0,2009,2
+337,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2009,5
+338,E01001092,Croydon,Sexual Offences,Rape,0,2009,3
+339,E01001000,Croydon,Sexual Offences,Rape,0,2009,5
+340,E01001516,Enfield,Sexual Offences,Rape,0,2009,3
+341,E01001516,Enfield,Sexual Offences,Rape,0,2009,8
+342,E01001763,Hackney,Sexual Offences,Rape,0,2009,3
+343,E01004417,Waltham Forest,Sexual Offences,Rape,0,2009,8
+344,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2009,9
+345,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2009,3
+346,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2009,4
+347,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2009,6
+348,E01004337,Waltham Forest,Sexual Offences,Rape,0,2009,7
+349,E01004342,Waltham Forest,Sexual Offences,Rape,0,2009,10
+350,E01004336,Waltham Forest,Sexual Offences,Rape,0,2009,12
+351,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2009,10
+352,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2009,11
+353,E01002756,Islington,Sexual Offences,Rape,0,2009,9
+354,E01002756,Islington,Sexual Offences,Rape,0,2009,10
+355,E01003640,Redbridge,Sexual Offences,Rape,0,2009,8
+356,E01003943,Southwark,Sexual Offences,Rape,0,2009,11
+357,E01004044,Southwark,Sexual Offences,Rape,0,2009,1
+358,E01002822,Kensington and Chelsea,Sexual Offences,Rape,0,2009,9
+359,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2009,7
+360,E01003640,Redbridge,Sexual Offences,Rape,0,2009,7
+361,E01003704,Redbridge,Sexual Offences,Rape,0,2009,7
+362,E01003972,Southwark,Sexual Offences,Rape,0,2009,10
+363,E01004027,Southwark,Sexual Offences,Rape,0,2009,10
+364,E01004601,Wandsworth,Sexual Offences,Rape,0,2009,11
+365,E01004551,Wandsworth,Sexual Offences,Rape,0,2009,1
+366,E01001971,Haringey,Sexual Offences,Rape,0,2009,5
+367,E01002061,Haringey,Sexual Offences,Rape,0,2009,5
+368,E01002292,Havering,Sexual Offences,Rape,0,2009,6
+369,E01002583,Hounslow,Sexual Offences,Rape,0,2009,5
+370,E01003264,Lewisham,Sexual Offences,Rape,0,2009,8
+371,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2009,1
+372,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2009,3
+373,E01004420,Waltham Forest,Sexual Offences,Rape,0,2009,11
+374,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2009,2
+375,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2009,9
+376,E01004694,Westminster,Sexual Offences,Rape,0,2009,2
+377,E01004694,Westminster,Sexual Offences,Rape,0,2009,7
+378,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2009,10
+379,E01004341,Waltham Forest,Sexual Offences,Rape,0,2009,8
+380,E01004341,Waltham Forest,Sexual Offences,Rape,0,2009,2
+381,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2009,4
+382,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2009,7
+383,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2009,12
+384,E01004615,Wandsworth,Sexual Offences,Rape,0,2009,11
+385,E01001935,Hammersmith and Fulham,Sexual Offences,Rape,0,2009,6
+386,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2009,1
+387,E01004735,Westminster,Sexual Offences,Rape,0,2009,5
+388,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2009,11
+389,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2009,4
+390,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2009,1
+391,E01000562,Brent,Sexual Offences,Rape,0,2010,8
+392,E01000550,Brent,Sexual Offences,Rape,0,2010,6
+393,E01000291,Barnet,Sexual Offences,Rape,0,2010,10
+394,E01000314,Barnet,Sexual Offences,Rape,0,2010,4
+395,E01000637,Brent,Sexual Offences,Rape,0,2010,10
+396,E01000562,Brent,Sexual Offences,Rape,0,2010,1
+397,E01000630,Brent,Sexual Offences,Rape,0,2010,7
+398,E01000644,Brent,Sexual Offences,Rape,0,2010,1
+399,E01000570,Brent,Sexual Offences,Rape,0,2010,2
+400,E01000255,Barnet,Sexual Offences,Rape,0,2010,8
+401,E01001273,Ealing,Sexual Offences,Rape,0,2010,7
+402,E01000472,Brent,Sexual Offences,Rape,0,2010,8
+403,E01000294,Barnet,Sexual Offences,Rape,0,2010,4
+404,E01000294,Barnet,Sexual Offences,Rape,0,2010,10
+405,E01000619,Brent,Sexual Offences,Rape,0,2010,11
+406,E01000471,Brent,Sexual Offences,Rape,0,2010,10
+407,E01000562,Brent,Sexual Offences,Rape,0,2010,4
+408,E01000156,Barnet,Sexual Offences,Rape,0,2010,5
+409,E01000314,Barnet,Sexual Offences,Rape,0,2010,12
+410,E01000478,Brent,Sexual Offences,Rape,0,2010,6
+411,E01000471,Brent,Sexual Offences,Rape,0,2010,1
+412,E01000591,Brent,Sexual Offences,Rape,0,2010,7
+413,E01000591,Brent,Sexual Offences,Rape,0,2010,6
+414,E01000294,Barnet,Sexual Offences,Rape,0,2010,2
+415,E01000291,Barnet,Sexual Offences,Rape,0,2010,5
+416,E01000932,Camden,Sexual Offences,Rape,0,2010,7
+417,E01001373,Ealing,Sexual Offences,Rape,0,2010,3
+418,E01001331,Ealing,Sexual Offences,Rape,0,2010,8
+419,E01001295,Ealing,Sexual Offences,Rape,0,2010,12
+420,E01003453,Merton,Sexual Offences,Rape,0,2010,6
+421,E01003431,Merton,Sexual Offences,Rape,0,2010,9
+422,E01003368,Merton,Sexual Offences,Rape,0,2010,8
+423,E01003363,Merton,Sexual Offences,Rape,0,2010,3
+424,E01004191,Sutton,Sexual Offences,Rape,0,2010,9
+425,E01000630,Brent,Sexual Offences,Rape,0,2010,8
+426,E01000472,Brent,Sexual Offences,Rape,0,2010,2
+427,E01000570,Brent,Sexual Offences,Rape,0,2010,1
+428,E01000630,Brent,Sexual Offences,Rape,0,2010,1
+429,E01001273,Ealing,Sexual Offences,Rape,0,2010,1
+430,E01002231,Harrow,Sexual Offences,Rape,0,2010,5
+431,E01003453,Merton,Sexual Offences,Rape,0,2010,2
+432,E01003527,Newham,Sexual Offences,Rape,0,2010,1
+433,E01003527,Newham,Sexual Offences,Rape,0,2010,5
+434,E01000824,Bromley,Sexual Offences,Rape,0,2010,8
+435,E01002216,Harrow,Sexual Offences,Rape,0,2010,9
+436,E01002131,Harrow,Sexual Offences,Rape,0,2010,6
+437,E01003388,Merton,Sexual Offences,Rape,0,2010,9
+438,E01003381,Merton,Sexual Offences,Rape,0,2010,10
+439,E01003619,Newham,Sexual Offences,Rape,0,2010,6
+440,E01002236,Harrow,Sexual Offences,Rape,0,2010,9
+441,E01002231,Harrow,Sexual Offences,Rape,0,2010,6
+442,E01003431,Merton,Sexual Offences,Rape,0,2010,3
+443,E01003428,Merton,Sexual Offences,Rape,0,2010,6
+444,E01003609,Newham,Sexual Offences,Rape,0,2010,2
+445,E01003633,Newham,Sexual Offences,Rape,0,2010,11
+446,E01003386,Merton,Sexual Offences,Rape,0,2010,6
+447,E01003595,Newham,Sexual Offences,Rape,0,2010,8
+448,E01003515,Newham,Sexual Offences,Rape,0,2010,10
+449,E01004183,Sutton,Sexual Offences,Rape,0,2010,11
+450,E01000743,Bromley,Sexual Offences,Rape,0,2010,5
+451,E01001165,Croydon,Sexual Offences,Rape,0,2010,9
+452,E01001008,Croydon,Sexual Offences,Rape,0,2010,7
+453,E01001000,Croydon,Sexual Offences,Rape,0,2010,9
+454,E01001057,Croydon,Sexual Offences,Rape,0,2010,7
+455,E01001117,Croydon,Sexual Offences,Rape,0,2010,3
+456,E01003119,Lambeth,Sexual Offences,Rape,0,2010,9
+457,E01001175,Croydon,Sexual Offences,Rape,0,2010,1
+458,E01001042,Croydon,Sexual Offences,Rape,0,2010,11
+459,E01001000,Croydon,Sexual Offences,Rape,0,2010,2
+460,E01001832,Hackney,Sexual Offences,Rape,0,2010,2
+461,E01001781,Hackney,Sexual Offences,Rape,0,2010,10
+462,E01003162,Lambeth,Sexual Offences,Rape,0,2010,9
+463,E01003162,Lambeth,Sexual Offences,Rape,0,2010,7
+464,E01003516,Newham,Sexual Offences,Rape,0,2010,7
+465,E01004183,Sutton,Sexual Offences,Rape,0,2010,8
+466,E01000743,Bromley,Sexual Offences,Rape,0,2010,9
+467,E01001062,Croydon,Sexual Offences,Rape,0,2010,12
+468,E01001043,Croydon,Sexual Offences,Rape,0,2010,8
+469,E01001008,Croydon,Sexual Offences,Rape,0,2010,12
+470,E01001043,Croydon,Sexual Offences,Rape,0,2010,7
+471,E01001062,Croydon,Sexual Offences,Rape,0,2010,5
+472,E01001487,Enfield,Sexual Offences,Rape,0,2010,12
+473,E01001533,Enfield,Sexual Offences,Rape,0,2010,11
+474,E01001840,Hackney,Sexual Offences,Rape,0,2010,2
+475,E01001763,Hackney,Sexual Offences,Rape,0,2010,1
+476,E01003095,Lambeth,Sexual Offences,Rape,0,2010,4
+477,E01003120,Lambeth,Sexual Offences,Rape,0,2010,11
+478,E01003014,Lambeth,Sexual Offences,Rape,0,2010,4
+479,E01003453,Merton,Sexual Offences,Rape,0,2010,8
+480,E01003496,Newham,Sexual Offences,Rape,0,2010,9
+481,E01003595,Newham,Sexual Offences,Rape,0,2010,4
+482,E01003608,Newham,Sexual Offences,Rape,0,2010,9
+483,E01000744,Bromley,Sexual Offences,Rape,0,2010,10
+484,E01000824,Bromley,Sexual Offences,Rape,0,2010,6
+485,E01002066,Haringey,Sexual Offences,Rape,0,2010,1
+486,E01001981,Haringey,Sexual Offences,Rape,0,2010,2
+487,E01002068,Haringey,Sexual Offences,Rape,0,2010,9
+488,E01001625,Greenwich,Sexual Offences,Rape,0,2010,6
+489,E01001981,Haringey,Sexual Offences,Rape,0,2010,11
+490,E01001971,Haringey,Sexual Offences,Rape,0,2010,5
+491,E01002089,Haringey,Sexual Offences,Rape,0,2010,9
+492,E01002292,Havering,Sexual Offences,Rape,0,2010,3
+493,E01002668,Hounslow,Sexual Offences,Rape,0,2010,12
+494,E01003260,Lewisham,Sexual Offences,Rape,0,2010,8
+495,E01003197,Lewisham,Sexual Offences,Rape,0,2010,9
+496,E01003256,Lewisham,Sexual Offences,Rape,0,2010,6
+497,E01001633,Greenwich,Sexual Offences,Rape,0,2010,11
+498,E01001646,Greenwich,Sexual Offences,Rape,0,2010,11
+499,E01001000,Croydon,Sexual Offences,Rape,0,2010,1
+500,E01001010,Croydon,Sexual Offences,Rape,0,2010,11
+501,E01001130,Croydon,Sexual Offences,Rape,0,2010,4
+502,E01001563,Enfield,Sexual Offences,Rape,0,2010,4
+503,E01001477,Enfield,Sexual Offences,Rape,0,2010,10
+504,E01001487,Enfield,Sexual Offences,Rape,0,2010,10
+505,E01001726,Hackney,Sexual Offences,Rape,0,2010,5
+506,E01000992,Croydon,Sexual Offences,Rape,0,2010,5
+507,E01001115,Croydon,Sexual Offences,Rape,0,2010,12
+508,E01001487,Enfield,Sexual Offences,Rape,0,2010,2
+509,E01001808,Hackney,Sexual Offences,Rape,0,2010,8
+510,E01001726,Hackney,Sexual Offences,Rape,0,2010,8
+511,E01002067,Haringey,Sexual Offences,Rape,0,2010,5
+512,E01002282,Havering,Sexual Offences,Rape,0,2010,2
+513,E01002293,Havering,Sexual Offences,Rape,0,2010,8
+514,E01002292,Havering,Sexual Offences,Rape,0,2010,5
+515,E01003256,Lewisham,Sexual Offences,Rape,0,2010,10
+516,E01003336,Lewisham,Sexual Offences,Rape,0,2010,8
+517,E01003260,Lewisham,Sexual Offences,Rape,0,2010,5
+518,E01003026,Lambeth,Sexual Offences,Rape,0,2010,9
+519,E01001981,Haringey,Sexual Offences,Rape,0,2010,4
+520,E01002089,Haringey,Sexual Offences,Rape,0,2010,10
+521,E01002661,Hounslow,Sexual Offences,Rape,0,2010,11
+522,E01001637,Greenwich,Sexual Offences,Rape,0,2010,2
+523,E01002804,Islington,Sexual Offences,Rape,0,2010,3
+524,E01002713,Islington,Sexual Offences,Rape,0,2010,9
+525,E01002784,Islington,Sexual Offences,Rape,0,2010,11
+526,E01002784,Islington,Sexual Offences,Rape,0,2010,1
+527,E01003943,Southwark,Sexual Offences,Rape,0,2010,11
+528,E01003972,Southwark,Sexual Offences,Rape,0,2010,9
+529,E01004024,Southwark,Sexual Offences,Rape,0,2010,10
+530,E01003972,Southwark,Sexual Offences,Rape,0,2010,12
+531,E01004027,Southwark,Sexual Offences,Rape,0,2010,4
+532,E01004550,Wandsworth,Sexual Offences,Rape,0,2010,4
+533,E01002784,Islington,Sexual Offences,Rape,0,2010,12
+534,E01002713,Islington,Sexual Offences,Rape,0,2010,10
+535,E01004536,Wandsworth,Sexual Offences,Rape,0,2010,6
+536,E01002061,Haringey,Sexual Offences,Rape,0,2010,5
+537,E01002054,Haringey,Sexual Offences,Rape,0,2010,7
+538,E01001971,Haringey,Sexual Offences,Rape,0,2010,2
+539,E01002621,Hounslow,Sexual Offences,Rape,0,2010,4
+540,E01003248,Lewisham,Sexual Offences,Rape,0,2010,4
+541,E01002784,Islington,Sexual Offences,Rape,0,2010,10
+542,E01003783,Redbridge,Sexual Offences,Rape,0,2010,12
+543,E01004001,Southwark,Sexual Offences,Rape,0,2010,12
+544,E01003972,Southwark,Sexual Offences,Rape,0,2010,3
+545,E01004044,Southwark,Sexual Offences,Rape,0,2010,2
+546,E01002447,Hillingdon,Sexual Offences,Rape,0,2010,2
+547,E01004570,Wandsworth,Sexual Offences,Rape,0,2010,2
+548,E01004601,Wandsworth,Sexual Offences,Rape,0,2010,12
+549,E01002060,Haringey,Sexual Offences,Rape,0,2010,2
+550,E01002061,Haringey,Sexual Offences,Rape,0,2010,9
+551,E01001971,Haringey,Sexual Offences,Rape,0,2010,9
+552,E01001981,Haringey,Sexual Offences,Rape,0,2010,6
+553,E01002569,Hounslow,Sexual Offences,Rape,0,2010,9
+554,E01002569,Hounslow,Sexual Offences,Rape,0,2010,6
+555,E01002621,Hounslow,Sexual Offences,Rape,0,2010,1
+556,E01003232,Lewisham,Sexual Offences,Rape,0,2010,9
+557,E01003348,Lewisham,Sexual Offences,Rape,0,2010,3
+558,E01001633,Greenwich,Sexual Offences,Rape,0,2010,2
+559,E01003943,Southwark,Sexual Offences,Rape,0,2010,1
+560,E01004675,Westminster,Sexual Offences,Rape,0,2010,11
+561,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2010,7
+562,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2010,1
+563,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2010,7
+564,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2010,6
+565,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2010,3
+566,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2010,7
+567,E01000992,Croydon,Sexual Offences,Rape,0,2010,6
+568,E01001549,Enfield,Sexual Offences,Rape,0,2010,12
+569,E01001563,Enfield,Sexual Offences,Rape,0,2010,5
+570,E01001832,Hackney,Sexual Offences,Rape,0,2010,5
+571,E01004735,Westminster,Sexual Offences,Rape,0,2010,1
+572,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2010,1
+573,E01004342,Waltham Forest,Sexual Offences,Rape,0,2010,12
+574,E01002994,Kingston upon Thames,Sexual Offences,Rape,0,2010,10
+575,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2010,5
+576,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2010,9
+577,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2010,6
+578,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2010,10
+579,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2010,5
+580,E01001907,Hammersmith and Fulham,Sexual Offences,Rape,0,2010,1
+581,E01002784,Islington,Sexual Offences,Rape,0,2010,2
+582,E01003640,Redbridge,Sexual Offences,Rape,0,2010,2
+583,E01002487,Hillingdon,Sexual Offences,Rape,0,2010,3
+584,E01004551,Wandsworth,Sexual Offences,Rape,0,2010,10
+585,E01004551,Wandsworth,Sexual Offences,Rape,0,2010,6
+586,E01004625,Wandsworth,Sexual Offences,Rape,0,2010,8
+587,E01002730,Islington,Sexual Offences,Rape,0,2010,6
+588,E01003786,Redbridge,Sexual Offences,Rape,0,2010,8
+589,E01003640,Redbridge,Sexual Offences,Rape,0,2010,4
+590,E01003948,Southwark,Sexual Offences,Rape,0,2010,3
+591,E01003921,Southwark,Sexual Offences,Rape,0,2010,5
+592,E01004006,Southwark,Sexual Offences,Rape,0,2010,6
+593,E01004580,Wandsworth,Sexual Offences,Rape,0,2010,1
+594,E01004601,Wandsworth,Sexual Offences,Rape,0,2010,10
+595,E01004570,Wandsworth,Sexual Offences,Rape,0,2010,12
+596,E01004615,Wandsworth,Sexual Offences,Rape,0,2010,9
+597,E01001971,Haringey,Sexual Offences,Rape,0,2010,10
+598,E01002062,Haringey,Sexual Offences,Rape,0,2010,5
+599,E01001971,Haringey,Sexual Offences,Rape,0,2010,11
+600,E01001637,Greenwich,Sexual Offences,Rape,0,2010,7
+601,E01001637,Greenwich,Sexual Offences,Rape,0,2010,10
+602,E01004755,Westminster,Sexual Offences,Rape,0,2010,5
+603,E01004337,Waltham Forest,Sexual Offences,Rape,0,2010,6
+604,E01004342,Waltham Forest,Sexual Offences,Rape,0,2010,10
+605,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2010,10
+606,E01002756,Islington,Sexual Offences,Rape,0,2010,8
+607,E01002713,Islington,Sexual Offences,Rape,0,2010,6
+608,E01002804,Islington,Sexual Offences,Rape,0,2010,9
+609,E01003689,Redbridge,Sexual Offences,Rape,0,2010,8
+610,E01003741,Redbridge,Sexual Offences,Rape,0,2010,12
+611,E01004044,Southwark,Sexual Offences,Rape,0,2010,11
+612,E01004027,Southwark,Sexual Offences,Rape,0,2010,3
+613,E01004509,Wandsworth,Sexual Offences,Rape,0,2010,2
+614,E01004570,Wandsworth,Sexual Offences,Rape,0,2010,10
+615,E01004625,Wandsworth,Sexual Offences,Rape,0,2010,11
+616,E01004550,Wandsworth,Sexual Offences,Rape,0,2010,3
+617,E01004740,Westminster,Sexual Offences,Rape,0,2010,6
+618,E01004224,Tower Hamlets,Sexual Offences,Rape,0,2010,9
+619,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2010,4
+620,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2010,12
+621,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2010,3
+622,E01000544,Brent,Sexual Offences,Rape,0,2011,3
+623,E01000471,Brent,Sexual Offences,Rape,0,2011,3
+624,E01000472,Brent,Sexual Offences,Rape,0,2011,2
+625,E01001331,Ealing,Sexual Offences,Rape,0,2011,2
+626,E01001373,Ealing,Sexual Offences,Rape,0,2011,2
+627,E01000471,Brent,Sexual Offences,Rape,0,2011,5
+628,E01000472,Brent,Sexual Offences,Rape,0,2011,7
+629,E01000932,Camden,Sexual Offences,Rape,0,2011,7
+630,E01000927,Camden,Sexual Offences,Rape,0,2011,11
+631,E01001309,Ealing,Sexual Offences,Rape,0,2011,5
+632,E01000630,Brent,Sexual Offences,Rape,0,2011,6
+633,E01000314,Barnet,Sexual Offences,Rape,0,2011,1
+634,E01000927,Camden,Sexual Offences,Rape,0,2011,8
+635,E01001309,Ealing,Sexual Offences,Rape,0,2011,8
+636,E01001309,Ealing,Sexual Offences,Rape,0,2011,12
+637,E01000550,Brent,Sexual Offences,Rape,0,2011,10
+638,E01000472,Brent,Sexual Offences,Rape,0,2011,4
+639,E01000255,Barnet,Sexual Offences,Rape,0,2011,7
+640,E01000898,Camden,Sexual Offences,Rape,0,2011,1
+641,E01001295,Ealing,Sexual Offences,Rape,0,2011,11
+642,E01001373,Ealing,Sexual Offences,Rape,0,2011,6
+643,E01001331,Ealing,Sexual Offences,Rape,0,2011,12
+644,E01000562,Brent,Sexual Offences,Rape,0,2011,3
+645,E01000471,Brent,Sexual Offences,Rape,0,2011,10
+646,E01000526,Brent,Sexual Offences,Rape,0,2011,5
+647,E01000644,Brent,Sexual Offences,Rape,0,2011,11
+648,E01000472,Brent,Sexual Offences,Rape,0,2011,11
+649,E01000853,Camden,Sexual Offences,Rape,0,2011,12
+650,E01002110,Harrow,Sexual Offences,Rape,0,2011,1
+651,E01002219,Harrow,Sexual Offences,Rape,0,2011,7
+652,E01002236,Harrow,Sexual Offences,Rape,0,2011,6
+653,E01003595,Newham,Sexual Offences,Rape,0,2011,4
+654,E01000824,Bromley,Sexual Offences,Rape,0,2011,2
+655,E01000550,Brent,Sexual Offences,Rape,0,2011,2
+656,E01000257,Barnet,Sexual Offences,Rape,0,2011,7
+657,E01000314,Barnet,Sexual Offences,Rape,0,2011,8
+658,E01001373,Ealing,Sexual Offences,Rape,0,2011,7
+659,E01001273,Ealing,Sexual Offences,Rape,0,2011,1
+660,E01003453,Merton,Sexual Offences,Rape,0,2011,5
+661,E01003386,Merton,Sexual Offences,Rape,0,2011,7
+662,E01003453,Merton,Sexual Offences,Rape,0,2011,3
+663,E01003363,Merton,Sexual Offences,Rape,0,2011,3
+664,E01003431,Merton,Sexual Offences,Rape,0,2011,2
+665,E01003428,Merton,Sexual Offences,Rape,0,2011,5
+666,E01003609,Newham,Sexual Offences,Rape,0,2011,1
+667,E01003609,Newham,Sexual Offences,Rape,0,2011,11
+668,E01002216,Harrow,Sexual Offences,Rape,0,2011,3
+669,E01002236,Harrow,Sexual Offences,Rape,0,2011,12
+670,E01002143,Harrow,Sexual Offences,Rape,0,2011,9
+671,E01002143,Harrow,Sexual Offences,Rape,0,2011,10
+672,E01003428,Merton,Sexual Offences,Rape,0,2011,3
+673,E01003531,Newham,Sexual Offences,Rape,0,2011,1
+674,E01003619,Newham,Sexual Offences,Rape,0,2011,11
+675,E01004191,Sutton,Sexual Offences,Rape,0,2011,3
+676,E01003595,Newham,Sexual Offences,Rape,0,2011,1
+677,E01003631,Newham,Sexual Offences,Rape,0,2011,8
+678,E01001843,Hackney,Sexual Offences,Rape,0,2011,12
+679,E01001755,Hackney,Sexual Offences,Rape,0,2011,3
+680,E01003014,Lambeth,Sexual Offences,Rape,0,2011,7
+681,E01001062,Croydon,Sexual Offences,Rape,0,2011,6
+682,E01000990,Croydon,Sexual Offences,Rape,0,2011,2
+683,E01001165,Croydon,Sexual Offences,Rape,0,2011,4
+684,E01001117,Croydon,Sexual Offences,Rape,0,2011,9
+685,E01001042,Croydon,Sexual Offences,Rape,0,2011,4
+686,E01001516,Enfield,Sexual Offences,Rape,0,2011,6
+687,E01001755,Hackney,Sexual Offences,Rape,0,2011,1
+688,E01001808,Hackney,Sexual Offences,Rape,0,2011,11
+689,E01003120,Lambeth,Sexual Offences,Rape,0,2011,4
+690,E01003095,Lambeth,Sexual Offences,Rape,0,2011,4
+691,E01003018,Lambeth,Sexual Offences,Rape,0,2011,10
+692,E01003095,Lambeth,Sexual Offences,Rape,0,2011,7
+693,E01003106,Lambeth,Sexual Offences,Rape,0,2011,2
+694,E01003591,Newham,Sexual Offences,Rape,0,2011,9
+695,E01000824,Bromley,Sexual Offences,Rape,0,2011,8
+696,E01001008,Croydon,Sexual Offences,Rape,0,2011,11
+697,E01001477,Enfield,Sexual Offences,Rape,0,2011,6
+698,E01000992,Croydon,Sexual Offences,Rape,0,2011,1
+699,E01000992,Croydon,Sexual Offences,Rape,0,2011,2
+700,E01002131,Harrow,Sexual Offences,Rape,0,2011,5
+701,E01002110,Harrow,Sexual Offences,Rape,0,2011,3
+702,E01002231,Harrow,Sexual Offences,Rape,0,2011,3
+703,E01003407,Merton,Sexual Offences,Rape,0,2011,5
+704,E01003631,Newham,Sexual Offences,Rape,0,2011,10
+705,E01000743,Bromley,Sexual Offences,Rape,0,2011,3
+706,E01002054,Haringey,Sexual Offences,Rape,0,2011,2
+707,E01001981,Haringey,Sexual Offences,Rape,0,2011,9
+708,E01002292,Havering,Sexual Offences,Rape,0,2011,11
+709,E01002604,Hounslow,Sexual Offences,Rape,0,2011,2
+710,E01002568,Hounslow,Sexual Offences,Rape,0,2011,9
+711,E01002569,Hounslow,Sexual Offences,Rape,0,2011,3
+712,E01003264,Lewisham,Sexual Offences,Rape,0,2011,1
+713,E01003312,Lewisham,Sexual Offences,Rape,0,2011,6
+714,E01003248,Lewisham,Sexual Offences,Rape,0,2011,7
+715,E01003203,Lewisham,Sexual Offences,Rape,0,2011,6
+716,E01001633,Greenwich,Sexual Offences,Rape,0,2011,9
+717,E01001646,Greenwich,Sexual Offences,Rape,0,2011,12
+718,E01002089,Haringey,Sexual Offences,Rape,0,2011,3
+719,E01002668,Hounslow,Sexual Offences,Rape,0,2011,5
+720,E01002560,Hounslow,Sexual Offences,Rape,0,2011,8
+721,E01003248,Lewisham,Sexual Offences,Rape,0,2011,3
+722,E01001165,Croydon,Sexual Offences,Rape,0,2011,1
+723,E01001062,Croydon,Sexual Offences,Rape,0,2011,3
+724,E01001549,Enfield,Sexual Offences,Rape,0,2011,9
+725,E01001763,Hackney,Sexual Offences,Rape,0,2011,5
+726,E01003014,Lambeth,Sexual Offences,Rape,0,2011,9
+727,E01001181,Croydon,Sexual Offences,Rape,0,2011,11
+728,E01001181,Croydon,Sexual Offences,Rape,0,2011,8
+729,E01001008,Croydon,Sexual Offences,Rape,0,2011,12
+730,E01001487,Enfield,Sexual Offences,Rape,0,2011,10
+731,E01001840,Hackney,Sexual Offences,Rape,0,2011,10
+732,E01003162,Lambeth,Sexual Offences,Rape,0,2011,12
+733,E01002067,Haringey,Sexual Offences,Rape,0,2011,8
+734,E01002356,Havering,Sexual Offences,Rape,0,2011,8
+735,E01002292,Havering,Sexual Offences,Rape,0,2011,1
+736,E01002560,Hounslow,Sexual Offences,Rape,0,2011,9
+737,E01002604,Hounslow,Sexual Offences,Rape,0,2011,8
+738,E01003336,Lewisham,Sexual Offences,Rape,0,2011,4
+739,E01003130,Lambeth,Sexual Offences,Rape,0,2011,9
+740,E01003106,Lambeth,Sexual Offences,Rape,0,2011,11
+741,E01003026,Lambeth,Sexual Offences,Rape,0,2011,11
+742,E01002082,Haringey,Sexual Offences,Rape,0,2011,11
+743,E01002560,Hounslow,Sexual Offences,Rape,0,2011,12
+744,E01003312,Lewisham,Sexual Offences,Rape,0,2011,12
+745,E01004024,Southwark,Sexual Offences,Rape,0,2011,7
+746,E01004001,Southwark,Sexual Offences,Rape,0,2011,11
+747,E01002395,Hillingdon,Sexual Offences,Rape,0,2011,12
+748,E01002455,Hillingdon,Sexual Offences,Rape,0,2011,11
+749,E01004625,Wandsworth,Sexual Offences,Rape,0,2011,3
+750,E01003741,Redbridge,Sexual Offences,Rape,0,2011,11
+751,E01003783,Redbridge,Sexual Offences,Rape,0,2011,1
+752,E01003640,Redbridge,Sexual Offences,Rape,0,2011,3
+753,E01004044,Southwark,Sexual Offences,Rape,0,2011,2
+754,E01002455,Hillingdon,Sexual Offences,Rape,0,2011,8
+755,E01002393,Hillingdon,Sexual Offences,Rape,0,2011,11
+756,E01004551,Wandsworth,Sexual Offences,Rape,0,2011,3
+757,E01004570,Wandsworth,Sexual Offences,Rape,0,2011,3
+758,E01004625,Wandsworth,Sexual Offences,Rape,0,2011,4
+759,E01002003,Haringey,Sexual Offences,Rape,0,2011,5
+760,E01001982,Haringey,Sexual Offences,Rape,0,2011,2
+761,E01002569,Hounslow,Sexual Offences,Rape,0,2011,7
+762,E01003264,Lewisham,Sexual Offences,Rape,0,2011,8
+763,E01003256,Lewisham,Sexual Offences,Rape,0,2011,5
+764,E01002756,Islington,Sexual Offences,Rape,0,2011,1
+765,E01003783,Redbridge,Sexual Offences,Rape,0,2011,12
+766,E01003772,Redbridge,Sexual Offences,Rape,0,2011,7
+767,E01003772,Redbridge,Sexual Offences,Rape,0,2011,12
+768,E01002487,Hillingdon,Sexual Offences,Rape,0,2011,4
+769,E01002395,Hillingdon,Sexual Offences,Rape,0,2011,4
+770,E01002089,Haringey,Sexual Offences,Rape,0,2011,12
+771,E01002060,Haringey,Sexual Offences,Rape,0,2011,11
+772,E01002067,Haringey,Sexual Offences,Rape,0,2011,2
+773,E01001982,Haringey,Sexual Offences,Rape,0,2011,11
+774,E01001982,Haringey,Sexual Offences,Rape,0,2011,10
+775,E01002569,Hounslow,Sexual Offences,Rape,0,2011,8
+776,E01004006,Southwark,Sexual Offences,Rape,0,2011,12
+777,E01004024,Southwark,Sexual Offences,Rape,0,2011,4
+778,E01004027,Southwark,Sexual Offences,Rape,0,2011,3
+779,E01002393,Hillingdon,Sexual Offences,Rape,0,2011,2
+780,E01004551,Wandsworth,Sexual Offences,Rape,0,2011,4
+781,E01004580,Wandsworth,Sexual Offences,Rape,0,2011,3
+782,E01004550,Wandsworth,Sexual Offences,Rape,0,2011,11
+783,E01004740,Westminster,Sexual Offences,Rape,0,2011,8
+784,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2011,11
+785,E01004740,Westminster,Sexual Offences,Rape,0,2011,11
+786,E01004694,Westminster,Sexual Offences,Rape,0,2011,3
+787,E01004675,Westminster,Sexual Offences,Rape,0,2011,10
+788,E01004755,Westminster,Sexual Offences,Rape,0,2011,4
+789,E01004694,Westminster,Sexual Offences,Rape,0,2011,7
+790,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2011,1
+791,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2011,11
+792,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2011,5
+793,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2011,4
+794,E01001877,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,6
+795,E01001008,Croydon,Sexual Offences,Rape,0,2011,8
+796,E01001087,Croydon,Sexual Offences,Rape,0,2011,12
+797,E01001130,Croydon,Sexual Offences,Rape,0,2011,4
+798,E01001477,Enfield,Sexual Offences,Rape,0,2011,9
+799,E01001563,Enfield,Sexual Offences,Rape,0,2011,3
+800,E01001843,Hackney,Sexual Offences,Rape,0,2011,7
+801,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2011,9
+802,E01004336,Waltham Forest,Sexual Offences,Rape,0,2011,10
+803,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2011,10
+804,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2011,12
+805,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2011,10
+806,E01004341,Waltham Forest,Sexual Offences,Rape,0,2011,9
+807,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2011,9
+808,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2011,10
+809,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2011,3
+810,E01004224,Tower Hamlets,Sexual Offences,Rape,0,2011,1
+811,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2011,10
+812,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2011,12
+813,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2011,8
+814,E01002802,Islington,Sexual Offences,Rape,0,2011,12
+815,E01003700,Redbridge,Sexual Offences,Rape,0,2011,3
+816,E01003700,Redbridge,Sexual Offences,Rape,0,2011,10
+817,E01003704,Redbridge,Sexual Offences,Rape,0,2011,3
+818,E01003921,Southwark,Sexual Offences,Rape,0,2011,11
+819,E01004070,Southwark,Sexual Offences,Rape,0,2011,3
+820,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,7
+821,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,8
+822,E01002487,Hillingdon,Sexual Offences,Rape,0,2011,1
+823,E01002067,Haringey,Sexual Offences,Rape,0,2011,6
+824,E01002068,Haringey,Sexual Offences,Rape,0,2011,8
+825,E01001982,Haringey,Sexual Offences,Rape,0,2011,1
+826,E01002583,Hounslow,Sexual Offences,Rape,0,2011,3
+827,E01003318,Lewisham,Sexual Offences,Rape,0,2011,12
+828,E01003203,Lewisham,Sexual Offences,Rape,0,2011,10
+829,E01003291,Lewisham,Sexual Offences,Rape,0,2011,4
+830,E01004755,Westminster,Sexual Offences,Rape,0,2011,6
+831,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2011,9
+832,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2011,8
+833,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2011,10
+834,E01004417,Waltham Forest,Sexual Offences,Rape,0,2011,6
+835,E01004417,Waltham Forest,Sexual Offences,Rape,0,2011,11
+836,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2011,2
+837,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,4
+838,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,2
+839,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2011,3
+840,E01004735,Westminster,Sexual Offences,Rape,0,2011,10
+841,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2011,12
+842,E01004224,Tower Hamlets,Sexual Offences,Rape,0,2011,8
+843,E01002713,Islington,Sexual Offences,Rape,0,2011,8
+844,E01002730,Islington,Sexual Offences,Rape,0,2011,7
+845,E01003704,Redbridge,Sexual Offences,Rape,0,2011,8
+846,E01004001,Southwark,Sexual Offences,Rape,0,2011,7
+847,E01002455,Hillingdon,Sexual Offences,Rape,0,2011,12
+848,E01004551,Wandsworth,Sexual Offences,Rape,0,2011,2
+849,E01004580,Wandsworth,Sexual Offences,Rape,0,2011,1
+850,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,3
+851,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2011,5
+852,E01001935,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,7
+853,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2011,3
+854,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2011,8
+855,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2011,11
+856,E01000637,Brent,Sexual Offences,Rape,0,2012,5
+857,E01000472,Brent,Sexual Offences,Rape,0,2012,10
+858,E01000562,Brent,Sexual Offences,Rape,0,2012,11
+859,E01000550,Brent,Sexual Offences,Rape,0,2012,11
+860,E01000591,Brent,Sexual Offences,Rape,0,2012,1
+861,E01000550,Brent,Sexual Offences,Rape,0,2012,12
+862,E01000591,Brent,Sexual Offences,Rape,0,2012,2
+863,E01000384,Bexley,Sexual Offences,Rape,0,2012,11
+864,E01000384,Bexley,Sexual Offences,Rape,0,2012,6
+865,E01000898,Camden,Sexual Offences,Rape,0,2012,3
+866,E01001331,Ealing,Sexual Offences,Rape,0,2012,2
+867,E01000591,Brent,Sexual Offences,Rape,0,2012,4
+868,E01000644,Brent,Sexual Offences,Rape,0,2012,3
+869,E01000291,Barnet,Sexual Offences,Rape,0,2012,1
+870,E01000257,Barnet,Sexual Offences,Rape,0,2012,10
+871,E01001331,Ealing,Sexual Offences,Rape,0,2012,5
+872,E01000637,Brent,Sexual Offences,Rape,0,2012,12
+873,E01000291,Barnet,Sexual Offences,Rape,0,2012,5
+874,E01000619,Brent,Sexual Offences,Rape,0,2012,6
+875,E01000637,Brent,Sexual Offences,Rape,0,2012,2
+876,E01000294,Barnet,Sexual Offences,Rape,0,2012,9
+877,E01001309,Ealing,Sexual Offences,Rape,0,2012,7
+878,E01000570,Brent,Sexual Offences,Rape,0,2012,7
+879,E01000637,Brent,Sexual Offences,Rape,0,2012,3
+880,E01000637,Brent,Sexual Offences,Rape,0,2012,9
+881,E01000255,Barnet,Sexual Offences,Rape,0,2012,1
+882,E01000848,Camden,Sexual Offences,Rape,0,2012,1
+883,E01001295,Ealing,Sexual Offences,Rape,0,2012,6
+884,E01000291,Barnet,Sexual Offences,Rape,0,2012,7
+885,E01000291,Barnet,Sexual Offences,Rape,0,2012,3
+886,E01000156,Barnet,Sexual Offences,Rape,0,2012,10
+887,E01002131,Harrow,Sexual Offences,Rape,0,2012,2
+888,E01002143,Harrow,Sexual Offences,Rape,0,2012,3
+889,E01002143,Harrow,Sexual Offences,Rape,0,2012,6
+890,E01003515,Newham,Sexual Offences,Rape,0,2012,11
+891,E01003515,Newham,Sexual Offences,Rape,0,2012,12
+892,E01000570,Brent,Sexual Offences,Rape,0,2012,12
+893,E01000156,Barnet,Sexual Offences,Rape,0,2012,9
+894,E01000294,Barnet,Sexual Offences,Rape,0,2012,1
+895,E01000384,Bexley,Sexual Offences,Rape,0,2012,1
+896,E01001373,Ealing,Sexual Offences,Rape,0,2012,9
+897,E01002107,Harrow,Sexual Offences,Rape,0,2012,9
+898,E01002110,Harrow,Sexual Offences,Rape,0,2012,9
+899,E01003609,Newham,Sexual Offences,Rape,0,2012,2
+900,E01003619,Newham,Sexual Offences,Rape,0,2012,11
+901,E01002216,Harrow,Sexual Offences,Rape,0,2012,12
+902,E01003368,Merton,Sexual Offences,Rape,0,2012,4
+903,E01002107,Harrow,Sexual Offences,Rape,0,2012,4
+904,E01003527,Newham,Sexual Offences,Rape,0,2012,3
+905,E01002216,Harrow,Sexual Offences,Rape,0,2012,6
+906,E01003516,Newham,Sexual Offences,Rape,0,2012,7
+907,E01003531,Newham,Sexual Offences,Rape,0,2012,6
+908,E01003619,Newham,Sexual Offences,Rape,0,2012,7
+909,E01003531,Newham,Sexual Offences,Rape,0,2012,12
+910,E01000824,Bromley,Sexual Offences,Rape,0,2012,9
+911,E01001010,Croydon,Sexual Offences,Rape,0,2012,1
+912,E01001487,Enfield,Sexual Offences,Rape,0,2012,1
+913,E01001781,Hackney,Sexual Offences,Rape,0,2012,10
+914,E01001843,Hackney,Sexual Offences,Rape,0,2012,6
+915,E01003018,Lambeth,Sexual Offences,Rape,0,2012,3
+916,E01001832,Hackney,Sexual Offences,Rape,0,2012,3
+917,E01001763,Hackney,Sexual Offences,Rape,0,2012,1
+918,E01003162,Lambeth,Sexual Offences,Rape,0,2012,5
+919,E01003609,Newham,Sexual Offences,Rape,0,2012,1
+920,E01001008,Croydon,Sexual Offences,Rape,0,2012,9
+921,E01001533,Enfield,Sexual Offences,Rape,0,2012,5
+922,E01001130,Croydon,Sexual Offences,Rape,0,2012,3
+923,E01001130,Croydon,Sexual Offences,Rape,0,2012,11
+924,E01001092,Croydon,Sexual Offences,Rape,0,2012,5
+925,E01003095,Lambeth,Sexual Offences,Rape,0,2012,3
+926,E01003095,Lambeth,Sexual Offences,Rape,0,2012,10
+927,E01002219,Harrow,Sexual Offences,Rape,0,2012,3
+928,E01003431,Merton,Sexual Offences,Rape,0,2012,1
+929,E01003631,Newham,Sexual Offences,Rape,0,2012,10
+930,E01000743,Bromley,Sexual Offences,Rape,0,2012,3
+931,E01002082,Haringey,Sexual Offences,Rape,0,2012,10
+932,E01002062,Haringey,Sexual Offences,Rape,0,2012,6
+933,E01002293,Havering,Sexual Offences,Rape,0,2012,6
+934,E01002356,Havering,Sexual Offences,Rape,0,2012,5
+935,E01002569,Hounslow,Sexual Offences,Rape,0,2012,10
+936,E01001640,Greenwich,Sexual Offences,Rape,0,2012,5
+937,E01002668,Hounslow,Sexual Offences,Rape,0,2012,2
+938,E01002621,Hounslow,Sexual Offences,Rape,0,2012,2
+939,E01002583,Hounslow,Sexual Offences,Rape,0,2012,5
+940,E01001637,Greenwich,Sexual Offences,Rape,0,2012,12
+941,E01001042,Croydon,Sexual Offences,Rape,0,2012,2
+942,E01001117,Croydon,Sexual Offences,Rape,0,2012,12
+943,E01001563,Enfield,Sexual Offences,Rape,0,2012,2
+944,E01001477,Enfield,Sexual Offences,Rape,0,2012,5
+945,E01001563,Enfield,Sexual Offences,Rape,0,2012,9
+946,E01001720,Hackney,Sexual Offences,Rape,0,2012,1
+947,E01001808,Hackney,Sexual Offences,Rape,0,2012,9
+948,E01001720,Hackney,Sexual Offences,Rape,0,2012,6
+949,E01001763,Hackney,Sexual Offences,Rape,0,2012,9
+950,E01003079,Lambeth,Sexual Offences,Rape,0,2012,5
+951,E01003119,Lambeth,Sexual Offences,Rape,0,2012,10
+952,E01003026,Lambeth,Sexual Offences,Rape,0,2012,11
+953,E01001151,Croydon,Sexual Offences,Rape,0,2012,6
+954,E01001043,Croydon,Sexual Offences,Rape,0,2012,12
+955,E01001165,Croydon,Sexual Offences,Rape,0,2012,8
+956,E01001487,Enfield,Sexual Offences,Rape,0,2012,10
+957,E01003120,Lambeth,Sexual Offences,Rape,0,2012,3
+958,E01003120,Lambeth,Sexual Offences,Rape,0,2012,8
+959,E01003106,Lambeth,Sexual Offences,Rape,0,2012,3
+960,E01003079,Lambeth,Sexual Offences,Rape,0,2012,1
+961,E01002292,Havering,Sexual Offences,Rape,0,2012,2
+962,E01002583,Hounslow,Sexual Offences,Rape,0,2012,2
+963,E01003318,Lewisham,Sexual Offences,Rape,0,2012,3
+964,E01003186,Lambeth,Sexual Offences,Rape,0,2012,10
+965,E01003186,Lambeth,Sexual Offences,Rape,0,2012,11
+966,E01001982,Haringey,Sexual Offences,Rape,0,2012,9
+967,E01002293,Havering,Sexual Offences,Rape,0,2012,3
+968,E01002282,Havering,Sexual Offences,Rape,0,2012,4
+969,E01003291,Lewisham,Sexual Offences,Rape,0,2012,11
+970,E01003197,Lewisham,Sexual Offences,Rape,0,2012,11
+971,E01002804,Islington,Sexual Offences,Rape,0,2012,5
+972,E01002802,Islington,Sexual Offences,Rape,0,2012,3
+973,E01003704,Redbridge,Sexual Offences,Rape,0,2012,9
+974,E01002487,Hillingdon,Sexual Offences,Rape,0,2012,2
+975,E01004601,Wandsworth,Sexual Offences,Rape,0,2012,2
+976,E01004508,Wandsworth,Sexual Offences,Rape,0,2012,6
+977,E01004528,Wandsworth,Sexual Offences,Rape,0,2012,9
+978,E01002802,Islington,Sexual Offences,Rape,0,2012,1
+979,E01003689,Redbridge,Sexual Offences,Rape,0,2012,10
+980,E01003772,Redbridge,Sexual Offences,Rape,0,2012,5
+981,E01003948,Southwark,Sexual Offences,Rape,0,2012,5
+982,E01004570,Wandsworth,Sexual Offences,Rape,0,2012,5
+983,E01002089,Haringey,Sexual Offences,Rape,0,2012,11
+984,E01002060,Haringey,Sexual Offences,Rape,0,2012,1
+985,E01001982,Haringey,Sexual Offences,Rape,0,2012,8
+986,E01003203,Lewisham,Sexual Offences,Rape,0,2012,7
+987,E01003264,Lewisham,Sexual Offences,Rape,0,2012,2
+988,E01003264,Lewisham,Sexual Offences,Rape,0,2012,7
+989,E01003203,Lewisham,Sexual Offences,Rape,0,2012,1
+990,E01003264,Lewisham,Sexual Offences,Rape,0,2012,4
+991,E01001637,Greenwich,Sexual Offences,Rape,0,2012,11
+992,E01003700,Redbridge,Sexual Offences,Rape,0,2012,10
+993,E01003786,Redbridge,Sexual Offences,Rape,0,2012,11
+994,E01003772,Redbridge,Sexual Offences,Rape,0,2012,7
+995,E01004615,Wandsworth,Sexual Offences,Rape,0,2012,3
+996,E01004536,Wandsworth,Sexual Offences,Rape,0,2012,11
+997,E01004601,Wandsworth,Sexual Offences,Rape,0,2012,12
+998,E01002067,Haringey,Sexual Offences,Rape,0,2012,7
+999,E01002082,Haringey,Sexual Offences,Rape,0,2012,3
+1000,E01002293,Havering,Sexual Offences,Rape,0,2012,8
+1001,E01003264,Lewisham,Sexual Offences,Rape,0,2012,3
+1002,E01001646,Greenwich,Sexual Offences,Rape,0,2012,7
+1003,E01003689,Redbridge,Sexual Offences,Rape,0,2012,7
+1004,E01003700,Redbridge,Sexual Offences,Rape,0,2012,2
+1005,E01004024,Southwark,Sexual Offences,Rape,0,2012,9
+1006,E01004509,Wandsworth,Sexual Offences,Rape,0,2012,5
+1007,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2012,5
+1008,E01004694,Westminster,Sexual Offences,Rape,0,2012,2
+1009,E01004740,Westminster,Sexual Offences,Rape,0,2012,1
+1010,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2012,4
+1011,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2012,11
+1012,E01001935,Hammersmith and Fulham,Sexual Offences,Rape,0,2012,10
+1013,E01002848,Kensington and Chelsea,Sexual Offences,Rape,0,2012,11
+1014,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2012,7
+1015,E01001057,Croydon,Sexual Offences,Rape,0,2012,9
+1016,E01001092,Croydon,Sexual Offences,Rape,0,2012,2
+1017,E01000990,Croydon,Sexual Offences,Rape,0,2012,8
+1018,E01001487,Enfield,Sexual Offences,Rape,0,2012,2
+1019,E01001755,Hackney,Sexual Offences,Rape,0,2012,9
+1020,E01004694,Westminster,Sexual Offences,Rape,0,2012,11
+1021,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2012,3
+1022,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2012,7
+1023,E01004341,Waltham Forest,Sexual Offences,Rape,0,2012,3
+1024,E01004339,Waltham Forest,Sexual Offences,Rape,0,2012,2
+1025,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2012,11
+1026,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2012,5
+1027,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2012,4
+1028,E01002994,Kingston upon Thames,Sexual Offences,Rape,0,2012,6
+1029,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2012,9
+1030,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2012,8
+1031,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2012,6
+1032,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2012,7
+1033,E01003704,Redbridge,Sexual Offences,Rape,0,2012,1
+1034,E01004601,Wandsworth,Sexual Offences,Rape,0,2012,10
+1035,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2012,11
+1036,E01002802,Islington,Sexual Offences,Rape,0,2012,12
+1037,E01003786,Redbridge,Sexual Offences,Rape,0,2012,3
+1038,E01004027,Southwark,Sexual Offences,Rape,0,2012,7
+1039,E01003921,Southwark,Sexual Offences,Rape,0,2012,7
+1040,E01002487,Hillingdon,Sexual Offences,Rape,0,2012,7
+1041,E01004508,Wandsworth,Sexual Offences,Rape,0,2012,10
+1042,E01004509,Wandsworth,Sexual Offences,Rape,0,2012,12
+1043,E01004550,Wandsworth,Sexual Offences,Rape,0,2012,9
+1044,E01004536,Wandsworth,Sexual Offences,Rape,0,2012,9
+1045,E01002060,Haringey,Sexual Offences,Rape,0,2012,4
+1046,E01002068,Haringey,Sexual Offences,Rape,0,2012,12
+1047,E01002287,Havering,Sexual Offences,Rape,0,2012,3
+1048,E01002583,Hounslow,Sexual Offences,Rape,0,2012,6
+1049,E01003291,Lewisham,Sexual Offences,Rape,0,2012,6
+1050,E01003197,Lewisham,Sexual Offences,Rape,0,2012,4
+1051,E01003318,Lewisham,Sexual Offences,Rape,0,2012,9
+1052,E01001625,Greenwich,Sexual Offences,Rape,0,2012,9
+1053,E01001625,Greenwich,Sexual Offences,Rape,0,2012,4
+1054,E01001633,Greenwich,Sexual Offences,Rape,0,2012,5
+1055,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2012,10
+1056,E01004755,Westminster,Sexual Offences,Rape,0,2012,12
+1057,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2012,1
+1058,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2012,7
+1059,E01003689,Redbridge,Sexual Offences,Rape,0,2012,1
+1060,E01002393,Hillingdon,Sexual Offences,Rape,0,2012,6
+1061,E01002447,Hillingdon,Sexual Offences,Rape,0,2012,2
+1062,E01004735,Westminster,Sexual Offences,Rape,0,2012,7
+1063,E01004675,Westminster,Sexual Offences,Rape,0,2012,6
+1064,E01004740,Westminster,Sexual Offences,Rape,0,2012,11
+1065,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2012,5
+1066,E01004339,Waltham Forest,Sexual Offences,Rape,0,2012,5
+1067,E01004385,Waltham Forest,Sexual Offences,Rape,0,2012,10
+1068,E01004378,Waltham Forest,Sexual Offences,Rape,0,2012,7
+1069,E01002822,Kensington and Chelsea,Sexual Offences,Rape,0,2012,9
+1070,E01000637,Brent,Sexual Offences,Rape,0,2013,5
+1071,E01000472,Brent,Sexual Offences,Rape,0,2013,2
+1072,E01000478,Brent,Sexual Offences,Rape,0,2013,4
+1073,E01000469,Bexley,Sexual Offences,Rape,0,2013,6
+1074,E01000932,Camden,Sexual Offences,Rape,0,2013,2
+1075,E01000853,Camden,Sexual Offences,Rape,0,2013,2
+1076,E01000472,Brent,Sexual Offences,Rape,0,2013,7
+1077,E01000570,Brent,Sexual Offences,Rape,0,2013,10
+1078,E01000644,Brent,Sexual Offences,Rape,0,2013,11
+1079,E01000314,Barnet,Sexual Offences,Rape,0,2013,7
+1080,E01000257,Barnet,Sexual Offences,Rape,0,2013,4
+1081,E01000257,Barnet,Sexual Offences,Rape,0,2013,11
+1082,E01000927,Camden,Sexual Offences,Rape,0,2013,9
+1083,E01000853,Camden,Sexual Offences,Rape,0,2013,4
+1084,E01001295,Ealing,Sexual Offences,Rape,0,2013,2
+1085,E01000478,Brent,Sexual Offences,Rape,0,2013,11
+1086,E01000562,Brent,Sexual Offences,Rape,0,2013,10
+1087,E01000644,Brent,Sexual Offences,Rape,0,2013,5
+1088,E01000848,Camden,Sexual Offences,Rape,0,2013,2
+1089,E01000314,Barnet,Sexual Offences,Rape,0,2013,1
+1090,E01000294,Barnet,Sexual Offences,Rape,0,2013,5
+1091,E01000469,Bexley,Sexual Offences,Rape,0,2013,11
+1092,E01001301,Ealing,Sexual Offences,Rape,0,2013,9
+1093,E01001301,Ealing,Sexual Offences,Rape,0,2013,4
+1094,E01000294,Barnet,Sexual Offences,Rape,0,2013,1
+1095,E01000384,Bexley,Sexual Offences,Rape,0,2013,1
+1096,E01000848,Camden,Sexual Offences,Rape,0,2013,7
+1097,E01001309,Ealing,Sexual Offences,Rape,0,2013,9
+1098,E01000544,Brent,Sexual Offences,Rape,0,2013,5
+1099,E01002216,Harrow,Sexual Offences,Rape,0,2013,4
+1100,E01000744,Bromley,Sexual Offences,Rape,0,2013,2
+1101,E01000550,Brent,Sexual Offences,Rape,0,2013,9
+1102,E01000637,Brent,Sexual Offences,Rape,0,2013,9
+1103,E01000932,Camden,Sexual Offences,Rape,0,2013,4
+1104,E01001373,Ealing,Sexual Offences,Rape,0,2013,5
+1105,E01003515,Newham,Sexual Offences,Rape,0,2013,6
+1106,E01003591,Newham,Sexual Offences,Rape,0,2013,2
+1107,E01002107,Harrow,Sexual Offences,Rape,0,2013,3
+1108,E01002131,Harrow,Sexual Offences,Rape,0,2013,7
+1109,E01003631,Newham,Sexual Offences,Rape,0,2013,8
+1110,E01003609,Newham,Sexual Offences,Rape,0,2013,3
+1111,E01003633,Newham,Sexual Offences,Rape,0,2013,8
+1112,E01002236,Harrow,Sexual Offences,Rape,0,2013,2
+1113,E01003386,Merton,Sexual Offences,Rape,0,2013,5
+1114,E01003386,Merton,Sexual Offences,Rape,0,2013,1
+1115,E01003551,Newham,Sexual Offences,Rape,0,2013,4
+1116,E01003527,Newham,Sexual Offences,Rape,0,2013,11
+1117,E01002131,Harrow,Sexual Offences,Rape,0,2013,11
+1118,E01002143,Harrow,Sexual Offences,Rape,0,2013,12
+1119,E01002131,Harrow,Sexual Offences,Rape,0,2013,12
+1120,E01003381,Merton,Sexual Offences,Rape,0,2013,3
+1121,E01000783,Bromley,Sexual Offences,Rape,0,2013,8
+1122,E01001181,Croydon,Sexual Offences,Rape,0,2013,6
+1123,E01001181,Croydon,Sexual Offences,Rape,0,2013,5
+1124,E01001392,Enfield,Sexual Offences,Rape,0,2013,6
+1125,E01001477,Enfield,Sexual Offences,Rape,0,2013,4
+1126,E01001549,Enfield,Sexual Offences,Rape,0,2013,11
+1127,E01001477,Enfield,Sexual Offences,Rape,0,2013,2
+1128,E01001832,Hackney,Sexual Offences,Rape,0,2013,5
+1129,E01001763,Hackney,Sexual Offences,Rape,0,2013,3
+1130,E01003106,Lambeth,Sexual Offences,Rape,0,2013,2
+1131,E01001087,Croydon,Sexual Offences,Rape,0,2013,7
+1132,E01001042,Croydon,Sexual Offences,Rape,0,2013,11
+1133,E01001563,Enfield,Sexual Offences,Rape,0,2013,4
+1134,E01001487,Enfield,Sexual Offences,Rape,0,2013,8
+1135,E01001763,Hackney,Sexual Offences,Rape,0,2013,5
+1136,E01001726,Hackney,Sexual Offences,Rape,0,2013,8
+1137,E01001781,Hackney,Sexual Offences,Rape,0,2013,4
+1138,E01003130,Lambeth,Sexual Offences,Rape,0,2013,10
+1139,E01001477,Enfield,Sexual Offences,Rape,0,2013,1
+1140,E01001832,Hackney,Sexual Offences,Rape,0,2013,2
+1141,E01001781,Hackney,Sexual Offences,Rape,0,2013,9
+1142,E01001843,Hackney,Sexual Offences,Rape,0,2013,5
+1143,E01001549,Enfield,Sexual Offences,Rape,0,2013,10
+1144,E01002219,Harrow,Sexual Offences,Rape,0,2013,11
+1145,E01000744,Bromley,Sexual Offences,Rape,0,2013,6
+1146,E01001982,Haringey,Sexual Offences,Rape,0,2013,11
+1147,E01002292,Havering,Sexual Offences,Rape,0,2013,4
+1148,E01002293,Havering,Sexual Offences,Rape,0,2013,5
+1149,E01002661,Hounslow,Sexual Offences,Rape,0,2013,11
+1150,E01002661,Hounslow,Sexual Offences,Rape,0,2013,7
+1151,E01002604,Hounslow,Sexual Offences,Rape,0,2013,11
+1152,E01003203,Lewisham,Sexual Offences,Rape,0,2013,1
+1153,E01003336,Lewisham,Sexual Offences,Rape,0,2013,5
+1154,E01003226,Lewisham,Sexual Offences,Rape,0,2013,6
+1155,E01001971,Haringey,Sexual Offences,Rape,0,2013,12
+1156,E01002061,Haringey,Sexual Offences,Rape,0,2013,11
+1157,E01002668,Hounslow,Sexual Offences,Rape,0,2013,8
+1158,E01001043,Croydon,Sexual Offences,Rape,0,2013,3
+1159,E01001008,Croydon,Sexual Offences,Rape,0,2013,11
+1160,E01001563,Enfield,Sexual Offences,Rape,0,2013,3
+1161,E01003018,Lambeth,Sexual Offences,Rape,0,2013,3
+1162,E01003026,Lambeth,Sexual Offences,Rape,0,2013,2
+1163,E01000992,Croydon,Sexual Offences,Rape,0,2013,1
+1164,E01000990,Croydon,Sexual Offences,Rape,0,2013,1
+1165,E01001533,Enfield,Sexual Offences,Rape,0,2013,7
+1166,E01003079,Lambeth,Sexual Offences,Rape,0,2013,6
+1167,E01003095,Lambeth,Sexual Offences,Rape,0,2013,1
+1168,E01003119,Lambeth,Sexual Offences,Rape,0,2013,2
+1169,E01002293,Havering,Sexual Offences,Rape,0,2013,2
+1170,E01003348,Lewisham,Sexual Offences,Rape,0,2013,6
+1171,E01003095,Lambeth,Sexual Offences,Rape,0,2013,7
+1172,E01002062,Haringey,Sexual Offences,Rape,0,2013,4
+1173,E01002003,Haringey,Sexual Offences,Rape,0,2013,8
+1174,E01002066,Haringey,Sexual Offences,Rape,0,2013,7
+1175,E01002287,Havering,Sexual Offences,Rape,0,2013,10
+1176,E01002583,Hounslow,Sexual Offences,Rape,0,2013,7
+1177,E01001637,Greenwich,Sexual Offences,Rape,0,2013,9
+1178,E01002804,Islington,Sexual Offences,Rape,0,2013,8
+1179,E01002784,Islington,Sexual Offences,Rape,0,2013,4
+1180,E01003921,Southwark,Sexual Offences,Rape,0,2013,5
+1181,E01003972,Southwark,Sexual Offences,Rape,0,2013,11
+1182,E01004509,Wandsworth,Sexual Offences,Rape,0,2013,6
+1183,E01004615,Wandsworth,Sexual Offences,Rape,0,2013,12
+1184,E01002061,Haringey,Sexual Offences,Rape,0,2013,8
+1185,E01002089,Haringey,Sexual Offences,Rape,0,2013,9
+1186,E01002054,Haringey,Sexual Offences,Rape,0,2013,3
+1187,E01002356,Havering,Sexual Offences,Rape,0,2013,10
+1188,E01002569,Hounslow,Sexual Offences,Rape,0,2013,9
+1189,E01002569,Hounslow,Sexual Offences,Rape,0,2013,6
+1190,E01003318,Lewisham,Sexual Offences,Rape,0,2013,5
+1191,E01003232,Lewisham,Sexual Offences,Rape,0,2013,11
+1192,E01003197,Lewisham,Sexual Offences,Rape,0,2013,12
+1193,E01003226,Lewisham,Sexual Offences,Rape,0,2013,12
+1194,E01004027,Southwark,Sexual Offences,Rape,0,2013,12
+1195,E01002447,Hillingdon,Sexual Offences,Rape,0,2013,12
+1196,E01004625,Wandsworth,Sexual Offences,Rape,0,2013,9
+1197,E01004551,Wandsworth,Sexual Offences,Rape,0,2013,11
+1198,E01002282,Havering,Sexual Offences,Rape,0,2013,7
+1199,E01002560,Hounslow,Sexual Offences,Rape,0,2013,10
+1200,E01002668,Hounslow,Sexual Offences,Rape,0,2013,9
+1201,E01002621,Hounslow,Sexual Offences,Rape,0,2013,3
+1202,E01002569,Hounslow,Sexual Offences,Rape,0,2013,4
+1203,E01003226,Lewisham,Sexual Offences,Rape,0,2013,8
+1204,E01003704,Redbridge,Sexual Offences,Rape,0,2013,5
+1205,E01003921,Southwark,Sexual Offences,Rape,0,2013,4
+1206,E01004675,Westminster,Sexual Offences,Rape,0,2013,4
+1207,E01004740,Westminster,Sexual Offences,Rape,0,2013,3
+1208,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2013,4
+1209,E01004694,Westminster,Sexual Offences,Rape,0,2013,1
+1210,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2013,8
+1211,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2013,3
+1212,E01004417,Waltham Forest,Sexual Offences,Rape,0,2013,10
+1213,E01004417,Waltham Forest,Sexual Offences,Rape,0,2013,7
+1214,E01004378,Waltham Forest,Sexual Offences,Rape,0,2013,3
+1215,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2013,1
+1216,E01001087,Croydon,Sexual Offences,Rape,0,2013,4
+1217,E01001008,Croydon,Sexual Offences,Rape,0,2013,1
+1218,E01001010,Croydon,Sexual Offences,Rape,0,2013,5
+1219,E01001092,Croydon,Sexual Offences,Rape,0,2013,4
+1220,E01001092,Croydon,Sexual Offences,Rape,0,2013,12
+1221,E01001000,Croydon,Sexual Offences,Rape,0,2013,6
+1222,E01001392,Enfield,Sexual Offences,Rape,0,2013,5
+1223,E01001808,Hackney,Sexual Offences,Rape,0,2013,4
+1224,E01001755,Hackney,Sexual Offences,Rape,0,2013,9
+1225,E01003119,Lambeth,Sexual Offences,Rape,0,2013,9
+1226,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2013,8
+1227,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2013,2
+1228,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2013,10
+1229,E01004341,Waltham Forest,Sexual Offences,Rape,0,2013,5
+1230,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2013,2
+1231,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2013,2
+1232,E01004378,Waltham Forest,Sexual Offences,Rape,0,2013,4
+1233,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2013,11
+1234,E01004339,Waltham Forest,Sexual Offences,Rape,0,2013,3
+1235,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2013,6
+1236,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2013,11
+1237,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2013,7
+1238,E01003921,Southwark,Sexual Offences,Rape,0,2013,7
+1239,E01003948,Southwark,Sexual Offences,Rape,0,2013,8
+1240,E01004570,Wandsworth,Sexual Offences,Rape,0,2013,4
+1241,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2013,5
+1242,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2013,7
+1243,E01003640,Redbridge,Sexual Offences,Rape,0,2013,7
+1244,E01004006,Southwark,Sexual Offences,Rape,0,2013,1
+1245,E01004070,Southwark,Sexual Offences,Rape,0,2013,8
+1246,E01002393,Hillingdon,Sexual Offences,Rape,0,2013,7
+1247,E01004536,Wandsworth,Sexual Offences,Rape,0,2013,5
+1248,E01004536,Wandsworth,Sexual Offences,Rape,0,2013,11
+1249,E01004536,Wandsworth,Sexual Offences,Rape,0,2013,3
+1250,E01001971,Haringey,Sexual Offences,Rape,0,2013,3
+1251,E01002583,Hounslow,Sexual Offences,Rape,0,2013,12
+1252,E01003248,Lewisham,Sexual Offences,Rape,0,2013,10
+1253,E01003260,Lewisham,Sexual Offences,Rape,0,2013,5
+1254,E01003348,Lewisham,Sexual Offences,Rape,0,2013,4
+1255,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2013,3
+1256,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2013,12
+1257,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2013,5
+1258,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2013,9
+1259,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2013,7
+1260,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2013,12
+1261,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2013,7
+1262,E01004336,Waltham Forest,Sexual Offences,Rape,0,2013,5
+1263,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2013,11
+1264,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2013,4
+1265,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2013,5
+1266,E01003704,Redbridge,Sexual Offences,Rape,0,2013,3
+1267,E01003689,Redbridge,Sexual Offences,Rape,0,2013,2
+1268,E01003943,Southwark,Sexual Offences,Rape,0,2013,10
+1269,E01004508,Wandsworth,Sexual Offences,Rape,0,2013,12
+1270,E01004735,Westminster,Sexual Offences,Rape,0,2013,1
+1271,E01004755,Westminster,Sexual Offences,Rape,0,2013,7
+1272,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2013,3
+1273,E01004336,Waltham Forest,Sexual Offences,Rape,0,2013,7
+1274,E01004378,Waltham Forest,Sexual Offences,Rape,0,2013,9
+1275,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2013,1
+1276,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2013,2
+1277,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2013,12
+1278,E01001907,Hammersmith and Fulham,Sexual Offences,Rape,0,2013,5
+1279,E01000637,Brent,Sexual Offences,Rape,0,2014,11
+1280,E01000526,Brent,Sexual Offences,Rape,0,2014,8
+1281,E01000294,Barnet,Sexual Offences,Rape,0,2014,4
+1282,E01001373,Ealing,Sexual Offences,Rape,0,2014,2
+1283,E01000570,Brent,Sexual Offences,Rape,0,2014,3
+1284,E01000644,Brent,Sexual Offences,Rape,0,2014,10
+1285,E01000471,Brent,Sexual Offences,Rape,0,2014,12
+1286,E01000630,Brent,Sexual Offences,Rape,0,2014,9
+1287,E01000550,Brent,Sexual Offences,Rape,0,2014,7
+1288,E01001309,Ealing,Sexual Offences,Rape,0,2014,7
+1289,E01000591,Brent,Sexual Offences,Rape,0,2014,4
+1290,E01000570,Brent,Sexual Offences,Rape,0,2014,7
+1291,E01000550,Brent,Sexual Offences,Rape,0,2014,4
+1292,E01000291,Barnet,Sexual Offences,Rape,0,2014,6
+1293,E01000932,Camden,Sexual Offences,Rape,0,2014,7
+1294,E01000570,Brent,Sexual Offences,Rape,0,2014,6
+1295,E01000156,Barnet,Sexual Offences,Rape,0,2014,12
+1296,E01002110,Harrow,Sexual Offences,Rape,0,2014,7
+1297,E01003368,Merton,Sexual Offences,Rape,0,2014,3
+1298,E01003363,Merton,Sexual Offences,Rape,0,2014,5
+1299,E01002236,Harrow,Sexual Offences,Rape,0,2014,4
+1300,E01002231,Harrow,Sexual Offences,Rape,0,2014,6
+1301,E01003609,Newham,Sexual Offences,Rape,0,2014,1
+1302,E01003527,Newham,Sexual Offences,Rape,0,2014,8
+1303,E01000544,Brent,Sexual Offences,Rape,0,2014,1
+1304,E01000570,Brent,Sexual Offences,Rape,0,2014,5
+1305,E01000637,Brent,Sexual Offences,Rape,0,2014,8
+1306,E01000469,Bexley,Sexual Offences,Rape,0,2014,6
+1307,E01000898,Camden,Sexual Offences,Rape,0,2014,7
+1308,E01001331,Ealing,Sexual Offences,Rape,0,2014,5
+1309,E01001273,Ealing,Sexual Offences,Rape,0,2014,10
+1310,E01001301,Ealing,Sexual Offences,Rape,0,2014,1
+1311,E01002231,Harrow,Sexual Offences,Rape,0,2014,7
+1312,E01002107,Harrow,Sexual Offences,Rape,0,2014,8
+1313,E01003595,Newham,Sexual Offences,Rape,0,2014,7
+1314,E01004191,Sutton,Sexual Offences,Rape,0,2014,4
+1315,E01002216,Harrow,Sexual Offences,Rape,0,2014,7
+1316,E01002219,Harrow,Sexual Offences,Rape,0,2014,4
+1317,E01003431,Merton,Sexual Offences,Rape,0,2014,12
+1318,E01003595,Newham,Sexual Offences,Rape,0,2014,1
+1319,E01003532,Newham,Sexual Offences,Rape,0,2014,11
+1320,E01004183,Sutton,Sexual Offences,Rape,0,2014,8
+1321,E01000744,Bromley,Sexual Offences,Rape,0,2014,6
+1322,E01003368,Merton,Sexual Offences,Rape,0,2014,12
+1323,E01003531,Newham,Sexual Offences,Rape,0,2014,3
+1324,E01003595,Newham,Sexual Offences,Rape,0,2014,3
+1325,E01004183,Sutton,Sexual Offences,Rape,0,2014,12
+1326,E01003453,Merton,Sexual Offences,Rape,0,2014,4
+1327,E01003591,Newham,Sexual Offences,Rape,0,2014,4
+1328,E01001057,Croydon,Sexual Offences,Rape,0,2014,12
+1329,E01000992,Croydon,Sexual Offences,Rape,0,2014,12
+1330,E01001130,Croydon,Sexual Offences,Rape,0,2014,7
+1331,E01001808,Hackney,Sexual Offences,Rape,0,2014,1
+1332,E01001755,Hackney,Sexual Offences,Rape,0,2014,7
+1333,E01003079,Lambeth,Sexual Offences,Rape,0,2014,8
+1334,E01003106,Lambeth,Sexual Offences,Rape,0,2014,12
+1335,E01001042,Croydon,Sexual Offences,Rape,0,2014,12
+1336,E01001165,Croydon,Sexual Offences,Rape,0,2014,6
+1337,E01001115,Croydon,Sexual Offences,Rape,0,2014,1
+1338,E01001092,Croydon,Sexual Offences,Rape,0,2014,6
+1339,E01001175,Croydon,Sexual Offences,Rape,0,2014,8
+1340,E01001832,Hackney,Sexual Offences,Rape,0,2014,8
+1341,E01001808,Hackney,Sexual Offences,Rape,0,2014,4
+1342,E01003162,Lambeth,Sexual Offences,Rape,0,2014,4
+1343,E01003186,Lambeth,Sexual Offences,Rape,0,2014,7
+1344,E01003014,Lambeth,Sexual Offences,Rape,0,2014,1
+1345,E01003516,Newham,Sexual Offences,Rape,0,2014,11
+1346,E01003631,Newham,Sexual Offences,Rape,0,2014,6
+1347,E01003608,Newham,Sexual Offences,Rape,0,2014,10
+1348,E01003619,Newham,Sexual Offences,Rape,0,2014,9
+1349,E01003527,Newham,Sexual Offences,Rape,0,2014,1
+1350,E01003527,Newham,Sexual Offences,Rape,0,2014,4
+1351,E01001092,Croydon,Sexual Offences,Rape,0,2014,1
+1352,E01001165,Croydon,Sexual Offences,Rape,0,2014,11
+1353,E01001720,Hackney,Sexual Offences,Rape,0,2014,12
+1354,E01001117,Croydon,Sexual Offences,Rape,0,2014,1
+1355,E01001117,Croydon,Sexual Offences,Rape,0,2014,5
+1356,E01001392,Enfield,Sexual Offences,Rape,0,2014,10
+1357,E01001781,Hackney,Sexual Offences,Rape,0,2014,3
+1358,E01001755,Hackney,Sexual Offences,Rape,0,2014,3
+1359,E01001843,Hackney,Sexual Offences,Rape,0,2014,9
+1360,E01002216,Harrow,Sexual Offences,Rape,0,2014,10
+1361,E01003368,Merton,Sexual Offences,Rape,0,2014,2
+1362,E01003496,Newham,Sexual Offences,Rape,0,2014,2
+1363,E01003532,Newham,Sexual Offences,Rape,0,2014,12
+1364,E01003633,Newham,Sexual Offences,Rape,0,2014,2
+1365,E01004183,Sutton,Sexual Offences,Rape,0,2014,10
+1366,E01002287,Havering,Sexual Offences,Rape,0,2014,9
+1367,E01002287,Havering,Sexual Offences,Rape,0,2014,2
+1368,E01002060,Haringey,Sexual Offences,Rape,0,2014,11
+1369,E01002054,Haringey,Sexual Offences,Rape,0,2014,3
+1370,E01002089,Haringey,Sexual Offences,Rape,0,2014,7
+1371,E01002066,Haringey,Sexual Offences,Rape,0,2014,7
+1372,E01002621,Hounslow,Sexual Offences,Rape,0,2014,12
+1373,E01002621,Hounslow,Sexual Offences,Rape,0,2014,3
+1374,E01003336,Lewisham,Sexual Offences,Rape,0,2014,12
+1375,E01001646,Greenwich,Sexual Offences,Rape,0,2014,2
+1376,E01001625,Greenwich,Sexual Offences,Rape,0,2014,7
+1377,E01001563,Enfield,Sexual Offences,Rape,0,2014,5
+1378,E01001781,Hackney,Sexual Offences,Rape,0,2014,12
+1379,E01003119,Lambeth,Sexual Offences,Rape,0,2014,12
+1380,E01003079,Lambeth,Sexual Offences,Rape,0,2014,3
+1381,E01003095,Lambeth,Sexual Offences,Rape,0,2014,8
+1382,E01001117,Croydon,Sexual Offences,Rape,0,2014,4
+1383,E01001181,Croydon,Sexual Offences,Rape,0,2014,9
+1384,E01001087,Croydon,Sexual Offences,Rape,0,2014,6
+1385,E01000992,Croydon,Sexual Offences,Rape,0,2014,6
+1386,E01001516,Enfield,Sexual Offences,Rape,0,2014,9
+1387,E01001840,Hackney,Sexual Offences,Rape,0,2014,8
+1388,E01003119,Lambeth,Sexual Offences,Rape,0,2014,2
+1389,E01001982,Haringey,Sexual Offences,Rape,0,2014,1
+1390,E01002661,Hounslow,Sexual Offences,Rape,0,2014,2
+1391,E01003264,Lewisham,Sexual Offences,Rape,0,2014,2
+1392,E01002356,Havering,Sexual Offences,Rape,0,2014,6
+1393,E01001578,Greenwich,Sexual Offences,Rape,0,2014,2
+1394,E01002784,Islington,Sexual Offences,Rape,0,2014,11
+1395,E01003741,Redbridge,Sexual Offences,Rape,0,2014,5
+1396,E01004001,Southwark,Sexual Offences,Rape,0,2014,7
+1397,E01003921,Southwark,Sexual Offences,Rape,0,2014,10
+1398,E01004509,Wandsworth,Sexual Offences,Rape,0,2014,11
+1399,E01004601,Wandsworth,Sexual Offences,Rape,0,2014,8
+1400,E01002730,Islington,Sexual Offences,Rape,0,2014,3
+1401,E01003700,Redbridge,Sexual Offences,Rape,0,2014,3
+1402,E01004001,Southwark,Sexual Offences,Rape,0,2014,10
+1403,E01004509,Wandsworth,Sexual Offences,Rape,0,2014,4
+1404,E01004509,Wandsworth,Sexual Offences,Rape,0,2014,9
+1405,E01004551,Wandsworth,Sexual Offences,Rape,0,2014,6
+1406,E01004528,Wandsworth,Sexual Offences,Rape,0,2014,9
+1407,E01002089,Haringey,Sexual Offences,Rape,0,2014,11
+1408,E01002569,Hounslow,Sexual Offences,Rape,0,2014,5
+1409,E01002560,Hounslow,Sexual Offences,Rape,0,2014,10
+1410,E01002583,Hounslow,Sexual Offences,Rape,0,2014,3
+1411,E01003302,Lewisham,Sexual Offences,Rape,0,2014,6
+1412,E01001633,Greenwich,Sexual Offences,Rape,0,2014,10
+1413,E01003783,Redbridge,Sexual Offences,Rape,0,2014,1
+1414,E01001982,Haringey,Sexual Offences,Rape,0,2014,8
+1415,E01002068,Haringey,Sexual Offences,Rape,0,2014,8
+1416,E01001982,Haringey,Sexual Offences,Rape,0,2014,5
+1417,E01002356,Havering,Sexual Offences,Rape,0,2014,1
+1418,E01002661,Hounslow,Sexual Offences,Rape,0,2014,11
+1419,E01003203,Lewisham,Sexual Offences,Rape,0,2014,8
+1420,E01003256,Lewisham,Sexual Offences,Rape,0,2014,6
+1421,E01004070,Southwark,Sexual Offences,Rape,0,2014,4
+1422,E01004024,Southwark,Sexual Offences,Rape,0,2014,7
+1423,E01004625,Wandsworth,Sexual Offences,Rape,0,2014,9
+1424,E01004675,Westminster,Sexual Offences,Rape,0,2014,2
+1425,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2014,4
+1426,E01003896,Richmond upon Thames,Sexual Offences,Rape,0,2014,4
+1427,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,9
+1428,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,2
+1429,E01001151,Croydon,Sexual Offences,Rape,0,2014,4
+1430,E01001392,Enfield,Sexual Offences,Rape,0,2014,12
+1431,E01001843,Hackney,Sexual Offences,Rape,0,2014,5
+1432,E01001726,Hackney,Sexual Offences,Rape,0,2014,7
+1433,E01001808,Hackney,Sexual Offences,Rape,0,2014,5
+1434,E01003162,Lambeth,Sexual Offences,Rape,0,2014,5
+1435,E01003026,Lambeth,Sexual Offences,Rape,0,2014,3
+1436,E01003119,Lambeth,Sexual Offences,Rape,0,2014,7
+1437,E01004740,Westminster,Sexual Offences,Rape,0,2014,3
+1438,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2014,9
+1439,E01004337,Waltham Forest,Sexual Offences,Rape,0,2014,8
+1440,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2014,12
+1441,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2014,2
+1442,E01004378,Waltham Forest,Sexual Offences,Rape,0,2014,5
+1443,E01003896,Richmond upon Thames,Sexual Offences,Rape,0,2014,2
+1444,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2014,7
+1445,E01002848,Kensington and Chelsea,Sexual Offences,Rape,0,2014,1
+1446,E01004385,Waltham Forest,Sexual Offences,Rape,0,2014,9
+1447,E01004420,Waltham Forest,Sexual Offences,Rape,0,2014,1
+1448,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2014,2
+1449,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2014,8
+1450,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2014,7
+1451,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,10
+1452,E01004601,Wandsworth,Sexual Offences,Rape,0,2014,6
+1453,E01004551,Wandsworth,Sexual Offences,Rape,0,2014,11
+1454,E01004528,Wandsworth,Sexual Offences,Rape,0,2014,3
+1455,E01004509,Wandsworth,Sexual Offences,Rape,0,2014,5
+1456,E01004536,Wandsworth,Sexual Offences,Rape,0,2014,12
+1457,E01004601,Wandsworth,Sexual Offences,Rape,0,2014,1
+1458,E01002784,Islington,Sexual Offences,Rape,0,2014,5
+1459,E01003741,Redbridge,Sexual Offences,Rape,0,2014,4
+1460,E01003772,Redbridge,Sexual Offences,Rape,0,2014,6
+1461,E01003689,Redbridge,Sexual Offences,Rape,0,2014,9
+1462,E01003741,Redbridge,Sexual Offences,Rape,0,2014,11
+1463,E01004044,Southwark,Sexual Offences,Rape,0,2014,5
+1464,E01003921,Southwark,Sexual Offences,Rape,0,2014,11
+1465,E01002447,Hillingdon,Sexual Offences,Rape,0,2014,9
+1466,E01004536,Wandsworth,Sexual Offences,Rape,0,2014,2
+1467,E01002082,Haringey,Sexual Offences,Rape,0,2014,2
+1468,E01002054,Haringey,Sexual Offences,Rape,0,2014,12
+1469,E01003318,Lewisham,Sexual Offences,Rape,0,2014,10
+1470,E01004755,Westminster,Sexual Offences,Rape,0,2014,7
+1471,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2014,3
+1472,E01004385,Waltham Forest,Sexual Offences,Rape,0,2014,10
+1473,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2014,9
+1474,E01002994,Kingston upon Thames,Sexual Offences,Rape,0,2014,7
+1475,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,1
+1476,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2014,7
+1477,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2014,4
+1478,E01004341,Waltham Forest,Sexual Offences,Rape,0,2014,12
+1479,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2014,11
+1480,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2014,6
+1481,E01002393,Hillingdon,Sexual Offences,Rape,0,2014,11
+1482,E01002455,Hillingdon,Sexual Offences,Rape,0,2014,1
+1483,E01004528,Wandsworth,Sexual Offences,Rape,0,2014,2
+1484,E01004528,Wandsworth,Sexual Offences,Rape,0,2014,7
+1485,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2014,1
+1486,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2014,3
+1487,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2014,7
+1488,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2014,5
+1489,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2014,10
+1490,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2014,12
+1491,E01001877,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,12
+1492,E01001959,Hammersmith and Fulham,Sexual Offences,Rape,0,2014,2
+1493,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2014,1
+1494,E01000471,Brent,Sexual Offences,Rape,0,2015,1
+1495,E01000591,Brent,Sexual Offences,Rape,0,2015,11
+1496,E01000469,Bexley,Sexual Offences,Rape,0,2015,7
+1497,E01000469,Bexley,Sexual Offences,Rape,0,2015,11
+1498,E01000848,Camden,Sexual Offences,Rape,0,2015,8
+1499,E01000853,Camden,Sexual Offences,Rape,0,2015,2
+1500,E01000848,Camden,Sexual Offences,Rape,0,2015,11
+1501,E01000927,Camden,Sexual Offences,Rape,0,2015,11
+1502,E01001273,Ealing,Sexual Offences,Rape,0,2015,11
+1503,E01001309,Ealing,Sexual Offences,Rape,0,2015,10
+1504,E01001295,Ealing,Sexual Offences,Rape,0,2015,11
+1505,E01000630,Brent,Sexual Offences,Rape,0,2015,8
+1506,E01000637,Brent,Sexual Offences,Rape,0,2015,2
+1507,E01001301,Ealing,Sexual Offences,Rape,0,2015,7
+1508,E01001301,Ealing,Sexual Offences,Rape,0,2015,4
+1509,E01000544,Brent,Sexual Offences,Rape,0,2015,5
+1510,E01000637,Brent,Sexual Offences,Rape,0,2015,5
+1511,E01000156,Barnet,Sexual Offences,Rape,0,2015,2
+1512,E01001301,Ealing,Sexual Offences,Rape,0,2015,6
+1513,E01000526,Brent,Sexual Offences,Rape,0,2015,12
+1514,E01000291,Barnet,Sexual Offences,Rape,0,2015,11
+1515,E01000314,Barnet,Sexual Offences,Rape,0,2015,6
+1516,E01000927,Camden,Sexual Offences,Rape,0,2015,2
+1517,E01001273,Ealing,Sexual Offences,Rape,0,2015,12
+1518,E01000591,Brent,Sexual Offences,Rape,0,2015,5
+1519,E01000562,Brent,Sexual Offences,Rape,0,2015,4
+1520,E01000294,Barnet,Sexual Offences,Rape,0,2015,10
+1521,E01000291,Barnet,Sexual Offences,Rape,0,2015,10
+1522,E01003386,Merton,Sexual Offences,Rape,0,2015,3
+1523,E01002236,Harrow,Sexual Offences,Rape,0,2015,10
+1524,E01003368,Merton,Sexual Offences,Rape,0,2015,7
+1525,E01003609,Newham,Sexual Offences,Rape,0,2015,3
+1526,E01003515,Newham,Sexual Offences,Rape,0,2015,3
+1527,E01000783,Bromley,Sexual Offences,Rape,0,2015,12
+1528,E01000526,Brent,Sexual Offences,Rape,0,2015,4
+1529,E01000619,Brent,Sexual Offences,Rape,0,2015,6
+1530,E01000848,Camden,Sexual Offences,Rape,0,2015,6
+1531,E01003431,Merton,Sexual Offences,Rape,0,2015,3
+1532,E01003368,Merton,Sexual Offences,Rape,0,2015,9
+1533,E01004191,Sutton,Sexual Offences,Rape,0,2015,12
+1534,E01004191,Sutton,Sexual Offences,Rape,0,2015,9
+1535,E01000743,Bromley,Sexual Offences,Rape,0,2015,7
+1536,E01000824,Bromley,Sexual Offences,Rape,0,2015,5
+1537,E01002219,Harrow,Sexual Offences,Rape,0,2015,10
+1538,E01002231,Harrow,Sexual Offences,Rape,0,2015,3
+1539,E01002231,Harrow,Sexual Offences,Rape,0,2015,10
+1540,E01003591,Newham,Sexual Offences,Rape,0,2015,6
+1541,E01003532,Newham,Sexual Offences,Rape,0,2015,11
+1542,E01003595,Newham,Sexual Offences,Rape,0,2015,9
+1543,E01003631,Newham,Sexual Offences,Rape,0,2015,7
+1544,E01000824,Bromley,Sexual Offences,Rape,0,2015,4
+1545,E01002216,Harrow,Sexual Offences,Rape,0,2015,6
+1546,E01002236,Harrow,Sexual Offences,Rape,0,2015,1
+1547,E01003428,Merton,Sexual Offences,Rape,0,2015,8
+1548,E01003619,Newham,Sexual Offences,Rape,0,2015,10
+1549,E01000783,Bromley,Sexual Offences,Rape,0,2015,7
+1550,E01002216,Harrow,Sexual Offences,Rape,0,2015,7
+1551,E01002216,Harrow,Sexual Offences,Rape,0,2015,11
+1552,E01002231,Harrow,Sexual Offences,Rape,0,2015,8
+1553,E01003388,Merton,Sexual Offences,Rape,0,2015,5
+1554,E01003368,Merton,Sexual Offences,Rape,0,2015,11
+1555,E01003516,Newham,Sexual Offences,Rape,0,2015,8
+1556,E01003532,Newham,Sexual Offences,Rape,0,2015,9
+1557,E01004191,Sutton,Sexual Offences,Rape,0,2015,4
+1558,E01000744,Bromley,Sexual Offences,Rape,0,2015,6
+1559,E01001087,Croydon,Sexual Offences,Rape,0,2015,4
+1560,E01000990,Croydon,Sexual Offences,Rape,0,2015,7
+1561,E01001175,Croydon,Sexual Offences,Rape,0,2015,9
+1562,E01001000,Croydon,Sexual Offences,Rape,0,2015,10
+1563,E01001755,Hackney,Sexual Offences,Rape,0,2015,6
+1564,E01001763,Hackney,Sexual Offences,Rape,0,2015,8
+1565,E01001720,Hackney,Sexual Offences,Rape,0,2015,5
+1566,E01003186,Lambeth,Sexual Offences,Rape,0,2015,12
+1567,E01003186,Lambeth,Sexual Offences,Rape,0,2015,1
+1568,E01000990,Croydon,Sexual Offences,Rape,0,2015,5
+1569,E01001042,Croydon,Sexual Offences,Rape,0,2015,9
+1570,E01001151,Croydon,Sexual Offences,Rape,0,2015,8
+1571,E01001563,Enfield,Sexual Offences,Rape,0,2015,12
+1572,E01003106,Lambeth,Sexual Offences,Rape,0,2015,1
+1573,E01000743,Bromley,Sexual Offences,Rape,0,2015,8
+1574,E01001175,Croydon,Sexual Offences,Rape,0,2015,8
+1575,E01001000,Croydon,Sexual Offences,Rape,0,2015,2
+1576,E01001008,Croydon,Sexual Offences,Rape,0,2015,5
+1577,E01001763,Hackney,Sexual Offences,Rape,0,2015,2
+1578,E01001008,Croydon,Sexual Offences,Rape,0,2015,12
+1579,E01001563,Enfield,Sexual Offences,Rape,0,2015,1
+1580,E01001781,Hackney,Sexual Offences,Rape,0,2015,12
+1581,E01003130,Lambeth,Sexual Offences,Rape,0,2015,12
+1582,E01003120,Lambeth,Sexual Offences,Rape,0,2015,7
+1583,E01003120,Lambeth,Sexual Offences,Rape,0,2015,6
+1584,E01003095,Lambeth,Sexual Offences,Rape,0,2015,4
+1585,E01002107,Harrow,Sexual Offences,Rape,0,2015,5
+1586,E01002216,Harrow,Sexual Offences,Rape,0,2015,4
+1587,E01002236,Harrow,Sexual Offences,Rape,0,2015,2
+1588,E01002236,Harrow,Sexual Offences,Rape,0,2015,3
+1589,E01003386,Merton,Sexual Offences,Rape,0,2015,12
+1590,E01003368,Merton,Sexual Offences,Rape,0,2015,3
+1591,E01003551,Newham,Sexual Offences,Rape,0,2015,6
+1592,E01003527,Newham,Sexual Offences,Rape,0,2015,4
+1593,E01000744,Bromley,Sexual Offences,Rape,0,2015,4
+1594,E01002621,Hounslow,Sexual Offences,Rape,0,2015,7
+1595,E01003312,Lewisham,Sexual Offences,Rape,0,2015,4
+1596,E01003197,Lewisham,Sexual Offences,Rape,0,2015,9
+1597,E01001625,Greenwich,Sexual Offences,Rape,0,2015,4
+1598,E01002067,Haringey,Sexual Offences,Rape,0,2015,3
+1599,E01002062,Haringey,Sexual Offences,Rape,0,2015,10
+1600,E01002282,Havering,Sexual Offences,Rape,0,2015,7
+1601,E01002287,Havering,Sexual Offences,Rape,0,2015,3
+1602,E01002560,Hounslow,Sexual Offences,Rape,0,2015,4
+1603,E01002604,Hounslow,Sexual Offences,Rape,0,2015,10
+1604,E01001165,Croydon,Sexual Offences,Rape,0,2015,3
+1605,E01000992,Croydon,Sexual Offences,Rape,0,2015,11
+1606,E01001165,Croydon,Sexual Offences,Rape,0,2015,1
+1607,E01001130,Croydon,Sexual Offences,Rape,0,2015,5
+1608,E01001549,Enfield,Sexual Offences,Rape,0,2015,5
+1609,E01001392,Enfield,Sexual Offences,Rape,0,2015,8
+1610,E01003026,Lambeth,Sexual Offences,Rape,0,2015,7
+1611,E01001549,Enfield,Sexual Offences,Rape,0,2015,1
+1612,E01003130,Lambeth,Sexual Offences,Rape,0,2015,5
+1613,E01003095,Lambeth,Sexual Offences,Rape,0,2015,6
+1614,E01003130,Lambeth,Sexual Offences,Rape,0,2015,8
+1615,E01003029,Lambeth,Sexual Offences,Rape,0,2015,10
+1616,E01002082,Haringey,Sexual Offences,Rape,0,2015,7
+1617,E01002282,Havering,Sexual Offences,Rape,0,2015,2
+1618,E01002282,Havering,Sexual Offences,Rape,0,2015,4
+1619,E01002621,Hounslow,Sexual Offences,Rape,0,2015,4
+1620,E01002560,Hounslow,Sexual Offences,Rape,0,2015,5
+1621,E01003203,Lewisham,Sexual Offences,Rape,0,2015,10
+1622,E01003291,Lewisham,Sexual Offences,Rape,0,2015,12
+1623,E01003260,Lewisham,Sexual Offences,Rape,0,2015,9
+1624,E01001633,Greenwich,Sexual Offences,Rape,0,2015,8
+1625,E01001640,Greenwich,Sexual Offences,Rape,0,2015,7
+1626,E01003162,Lambeth,Sexual Offences,Rape,0,2015,11
+1627,E01001981,Haringey,Sexual Offences,Rape,0,2015,8
+1628,E01002569,Hounslow,Sexual Offences,Rape,0,2015,2
+1629,E01002604,Hounslow,Sexual Offences,Rape,0,2015,2
+1630,E01003302,Lewisham,Sexual Offences,Rape,0,2015,3
+1631,E01002756,Islington,Sexual Offences,Rape,0,2015,10
+1632,E01002756,Islington,Sexual Offences,Rape,0,2015,12
+1633,E01002784,Islington,Sexual Offences,Rape,0,2015,11
+1634,E01003640,Redbridge,Sexual Offences,Rape,0,2015,2
+1635,E01004006,Southwark,Sexual Offences,Rape,0,2015,8
+1636,E01004551,Wandsworth,Sexual Offences,Rape,0,2015,5
+1637,E01004528,Wandsworth,Sexual Offences,Rape,0,2015,9
+1638,E01003689,Redbridge,Sexual Offences,Rape,0,2015,3
+1639,E01004070,Southwark,Sexual Offences,Rape,0,2015,5
+1640,E01004027,Southwark,Sexual Offences,Rape,0,2015,6
+1641,E01004044,Southwark,Sexual Offences,Rape,0,2015,9
+1642,E01002395,Hillingdon,Sexual Offences,Rape,0,2015,1
+1643,E01002487,Hillingdon,Sexual Offences,Rape,0,2015,10
+1644,E01004625,Wandsworth,Sexual Offences,Rape,0,2015,1
+1645,E01004536,Wandsworth,Sexual Offences,Rape,0,2015,10
+1646,E01004508,Wandsworth,Sexual Offences,Rape,0,2015,7
+1647,E01001971,Haringey,Sexual Offences,Rape,0,2015,9
+1648,E01001971,Haringey,Sexual Offences,Rape,0,2015,8
+1649,E01002282,Havering,Sexual Offences,Rape,0,2015,3
+1650,E01003232,Lewisham,Sexual Offences,Rape,0,2015,10
+1651,E01001633,Greenwich,Sexual Offences,Rape,0,2015,11
+1652,E01002784,Islington,Sexual Offences,Rape,0,2015,3
+1653,E01003943,Southwark,Sexual Offences,Rape,0,2015,9
+1654,E01003921,Southwark,Sexual Offences,Rape,0,2015,3
+1655,E01002447,Hillingdon,Sexual Offences,Rape,0,2015,10
+1656,E01002455,Hillingdon,Sexual Offences,Rape,0,2015,9
+1657,E01002508,Hillingdon,Sexual Offences,Rape,0,2015,4
+1658,E01004580,Wandsworth,Sexual Offences,Rape,0,2015,11
+1659,E01001971,Haringey,Sexual Offences,Rape,0,2015,3
+1660,E01002282,Havering,Sexual Offences,Rape,0,2015,5
+1661,E01002569,Hounslow,Sexual Offences,Rape,0,2015,5
+1662,E01003260,Lewisham,Sexual Offences,Rape,0,2015,3
+1663,E01003232,Lewisham,Sexual Offences,Rape,0,2015,2
+1664,E01003226,Lewisham,Sexual Offences,Rape,0,2015,5
+1665,E01003700,Redbridge,Sexual Offences,Rape,0,2015,5
+1666,E01004024,Southwark,Sexual Offences,Rape,0,2015,4
+1667,E01004694,Westminster,Sexual Offences,Rape,0,2015,8
+1668,E01004755,Westminster,Sexual Offences,Rape,0,2015,5
+1669,E01004755,Westminster,Sexual Offences,Rape,0,2015,6
+1670,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2015,8
+1671,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2015,12
+1672,E01004336,Waltham Forest,Sexual Offences,Rape,0,2015,5
+1673,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2015,10
+1674,E01003801,Richmond upon Thames,Sexual Offences,Rape,0,2015,1
+1675,E01001907,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,7
+1676,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,10
+1677,E01001042,Croydon,Sexual Offences,Rape,0,2015,7
+1678,E01001042,Croydon,Sexual Offences,Rape,0,2015,10
+1679,E01001043,Croydon,Sexual Offences,Rape,0,2015,2
+1680,E01003162,Lambeth,Sexual Offences,Rape,0,2015,9
+1681,E01004234,Tower Hamlets,Sexual Offences,Rape,0,2015,5
+1682,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2015,7
+1683,E01004341,Waltham Forest,Sexual Offences,Rape,0,2015,6
+1684,E01004385,Waltham Forest,Sexual Offences,Rape,0,2015,1
+1685,E01004417,Waltham Forest,Sexual Offences,Rape,0,2015,11
+1686,E01002993,Kingston upon Thames,Sexual Offences,Rape,0,2015,9
+1687,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,6
+1688,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2015,3
+1689,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2015,1
+1690,E01004740,Westminster,Sexual Offences,Rape,0,2015,8
+1691,E01004293,Tower Hamlets,Sexual Offences,Rape,0,2015,1
+1692,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2015,8
+1693,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2015,9
+1694,E01003896,Richmond upon Thames,Sexual Offences,Rape,0,2015,3
+1695,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,4
+1696,E01003700,Redbridge,Sexual Offences,Rape,0,2015,9
+1697,E01003948,Southwark,Sexual Offences,Rape,0,2015,10
+1698,E01001877,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,6
+1699,E01001912,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,2
+1700,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2015,10
+1701,E01002784,Islington,Sexual Offences,Rape,0,2015,8
+1702,E01002802,Islington,Sexual Offences,Rape,0,2015,10
+1703,E01003783,Redbridge,Sexual Offences,Rape,0,2015,1
+1704,E01003704,Redbridge,Sexual Offences,Rape,0,2015,12
+1705,E01003972,Southwark,Sexual Offences,Rape,0,2015,7
+1706,E01004044,Southwark,Sexual Offences,Rape,0,2015,12
+1707,E01002393,Hillingdon,Sexual Offences,Rape,0,2015,2
+1708,E01004570,Wandsworth,Sexual Offences,Rape,0,2015,6
+1709,E01002061,Haringey,Sexual Offences,Rape,0,2015,2
+1710,E01002604,Hounslow,Sexual Offences,Rape,0,2015,8
+1711,E01004675,Westminster,Sexual Offences,Rape,0,2015,10
+1712,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2015,12
+1713,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2015,12
+1714,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,5
+1715,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2015,2
+1716,E01002822,Kensington and Chelsea,Sexual Offences,Rape,0,2015,1
+1717,E01002822,Kensington and Chelsea,Sexual Offences,Rape,0,2015,4
+1718,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2015,7
+1719,E01004735,Westminster,Sexual Offences,Rape,0,2015,7
+1720,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2015,5
+1721,E01003741,Redbridge,Sexual Offences,Rape,0,2015,3
+1722,E01004550,Wandsworth,Sexual Offences,Rape,0,2015,9
+1723,E01001935,Hammersmith and Fulham,Sexual Offences,Rape,0,2015,2
+1724,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2015,10
+1725,E01004272,Tower Hamlets,Sexual Offences,Rape,0,2015,8
+1726,E01002946,Kingston upon Thames,Sexual Offences,Rape,0,2015,8
+1727,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2015,1
+1728,E01000472,Brent,Sexual Offences,Rape,0,2016,10
+1729,E01000291,Barnet,Sexual Offences,Rape,0,2016,10
+1730,E01000478,Brent,Sexual Offences,Rape,0,2016,7
+1731,E01000570,Brent,Sexual Offences,Rape,0,2016,10
+1732,E01000472,Brent,Sexual Offences,Rape,0,2016,1
+1733,E01000469,Bexley,Sexual Offences,Rape,0,2016,7
+1734,E01000469,Bexley,Sexual Offences,Rape,0,2016,3
+1735,E01001301,Ealing,Sexual Offences,Rape,0,2016,6
+1736,E01000562,Brent,Sexual Offences,Rape,0,2016,3
+1737,E01000644,Brent,Sexual Offences,Rape,0,2016,1
+1738,E01000257,Barnet,Sexual Offences,Rape,0,2016,7
+1739,E01001309,Ealing,Sexual Offences,Rape,0,2016,4
+1740,E01000294,Barnet,Sexual Offences,Rape,0,2016,6
+1741,E01000927,Camden,Sexual Offences,Rape,0,2016,11
+1742,E01001301,Ealing,Sexual Offences,Rape,0,2016,12
+1743,E01000562,Brent,Sexual Offences,Rape,0,2016,11
+1744,E01000570,Brent,Sexual Offences,Rape,0,2016,5
+1745,E01000544,Brent,Sexual Offences,Rape,0,2016,11
+1746,E01000570,Brent,Sexual Offences,Rape,0,2016,7
+1747,E01000384,Bexley,Sexual Offences,Rape,0,2016,4
+1748,E01000469,Bexley,Sexual Offences,Rape,0,2016,11
+1749,E01000932,Camden,Sexual Offences,Rape,0,2016,7
+1750,E01000853,Camden,Sexual Offences,Rape,0,2016,1
+1751,E01000898,Camden,Sexual Offences,Rape,0,2016,9
+1752,E01000544,Brent,Sexual Offences,Rape,0,2016,8
+1753,E01000478,Brent,Sexual Offences,Rape,0,2016,6
+1754,E01000255,Barnet,Sexual Offences,Rape,0,2016,2
+1755,E01000637,Brent,Sexual Offences,Rape,0,2016,6
+1756,E01000294,Barnet,Sexual Offences,Rape,0,2016,5
+1757,E01000927,Camden,Sexual Offences,Rape,0,2016,8
+1758,E01002107,Harrow,Sexual Offences,Rape,0,2016,11
+1759,E01003407,Merton,Sexual Offences,Rape,0,2016,11
+1760,E01003386,Merton,Sexual Offences,Rape,0,2016,2
+1761,E01003453,Merton,Sexual Offences,Rape,0,2016,6
+1762,E01003608,Newham,Sexual Offences,Rape,0,2016,12
+1763,E01003551,Newham,Sexual Offences,Rape,0,2016,11
+1764,E01003633,Newham,Sexual Offences,Rape,0,2016,8
+1765,E01000824,Bromley,Sexual Offences,Rape,0,2016,4
+1766,E01002143,Harrow,Sexual Offences,Rape,0,2016,11
+1767,E01002110,Harrow,Sexual Offences,Rape,0,2016,10
+1768,E01002219,Harrow,Sexual Offences,Rape,0,2016,2
+1769,E01003363,Merton,Sexual Offences,Rape,0,2016,11
+1770,E01003515,Newham,Sexual Offences,Rape,0,2016,6
+1771,E01000743,Bromley,Sexual Offences,Rape,0,2016,10
+1772,E01002231,Harrow,Sexual Offences,Rape,0,2016,10
+1773,E01002236,Harrow,Sexual Offences,Rape,0,2016,4
+1774,E01003388,Merton,Sexual Offences,Rape,0,2016,5
+1775,E01003407,Merton,Sexual Offences,Rape,0,2016,6
+1776,E01003608,Newham,Sexual Offences,Rape,0,2016,8
+1777,E01002110,Harrow,Sexual Offences,Rape,0,2016,12
+1778,E01003407,Merton,Sexual Offences,Rape,0,2016,12
+1779,E01003633,Newham,Sexual Offences,Rape,0,2016,11
+1780,E01003619,Newham,Sexual Offences,Rape,0,2016,1
+1781,E01000992,Croydon,Sexual Offences,Rape,0,2016,10
+1782,E01003119,Lambeth,Sexual Offences,Rape,0,2016,4
+1783,E01003095,Lambeth,Sexual Offences,Rape,0,2016,3
+1784,E01001151,Croydon,Sexual Offences,Rape,0,2016,4
+1785,E01001087,Croydon,Sexual Offences,Rape,0,2016,7
+1786,E01001516,Enfield,Sexual Offences,Rape,0,2016,1
+1787,E01000783,Bromley,Sexual Offences,Rape,0,2016,2
+1788,E01001043,Croydon,Sexual Offences,Rape,0,2016,2
+1789,E01001549,Enfield,Sexual Offences,Rape,0,2016,6
+1790,E01001392,Enfield,Sexual Offences,Rape,0,2016,5
+1791,E01001843,Hackney,Sexual Offences,Rape,0,2016,11
+1792,E01001763,Hackney,Sexual Offences,Rape,0,2016,5
+1793,E01001763,Hackney,Sexual Offences,Rape,0,2016,4
+1794,E01001840,Hackney,Sexual Offences,Rape,0,2016,4
+1795,E01003029,Lambeth,Sexual Offences,Rape,0,2016,11
+1796,E01003018,Lambeth,Sexual Offences,Rape,0,2016,11
+1797,E01002107,Harrow,Sexual Offences,Rape,0,2016,5
+1798,E01003368,Merton,Sexual Offences,Rape,0,2016,5
+1799,E01003363,Merton,Sexual Offences,Rape,0,2016,10
+1800,E01003527,Newham,Sexual Offences,Rape,0,2016,4
+1801,E01003619,Newham,Sexual Offences,Rape,0,2016,12
+1802,E01004183,Sutton,Sexual Offences,Rape,0,2016,9
+1803,E01000744,Bromley,Sexual Offences,Rape,0,2016,3
+1804,E01002082,Haringey,Sexual Offences,Rape,0,2016,2
+1805,E01002054,Haringey,Sexual Offences,Rape,0,2016,7
+1806,E01002067,Haringey,Sexual Offences,Rape,0,2016,5
+1807,E01002292,Havering,Sexual Offences,Rape,0,2016,8
+1808,E01003260,Lewisham,Sexual Offences,Rape,0,2016,8
+1809,E01003348,Lewisham,Sexual Offences,Rape,0,2016,12
+1810,E01003291,Lewisham,Sexual Offences,Rape,0,2016,9
+1811,E01003348,Lewisham,Sexual Offences,Rape,0,2016,9
+1812,E01001637,Greenwich,Sexual Offences,Rape,0,2016,9
+1813,E01002089,Haringey,Sexual Offences,Rape,0,2016,6
+1814,E01002604,Hounslow,Sexual Offences,Rape,0,2016,7
+1815,E01002568,Hounslow,Sexual Offences,Rape,0,2016,5
+1816,E01003318,Lewisham,Sexual Offences,Rape,0,2016,1
+1817,E01001646,Greenwich,Sexual Offences,Rape,0,2016,5
+1818,E01001008,Croydon,Sexual Offences,Rape,0,2016,9
+1819,E01001130,Croydon,Sexual Offences,Rape,0,2016,6
+1820,E01001533,Enfield,Sexual Offences,Rape,0,2016,4
+1821,E01001516,Enfield,Sexual Offences,Rape,0,2016,9
+1822,E01001477,Enfield,Sexual Offences,Rape,0,2016,5
+1823,E01003186,Lambeth,Sexual Offences,Rape,0,2016,1
+1824,E01003026,Lambeth,Sexual Offences,Rape,0,2016,11
+1825,E01003026,Lambeth,Sexual Offences,Rape,0,2016,4
+1826,E01003026,Lambeth,Sexual Offences,Rape,0,2016,5
+1827,E01001000,Croydon,Sexual Offences,Rape,0,2016,8
+1828,E01001165,Croydon,Sexual Offences,Rape,0,2016,2
+1829,E01003106,Lambeth,Sexual Offences,Rape,0,2016,1
+1830,E01002568,Hounslow,Sexual Offences,Rape,0,2016,9
+1831,E01002569,Hounslow,Sexual Offences,Rape,0,2016,4
+1832,E01002661,Hounslow,Sexual Offences,Rape,0,2016,9
+1833,E01003318,Lewisham,Sexual Offences,Rape,0,2016,7
+1834,E01003318,Lewisham,Sexual Offences,Rape,0,2016,8
+1835,E01001633,Greenwich,Sexual Offences,Rape,0,2016,7
+1836,E01003130,Lambeth,Sexual Offences,Rape,0,2016,5
+1837,E01003106,Lambeth,Sexual Offences,Rape,0,2016,5
+1838,E01002067,Haringey,Sexual Offences,Rape,0,2016,8
+1839,E01003312,Lewisham,Sexual Offences,Rape,0,2016,8
+1840,E01003336,Lewisham,Sexual Offences,Rape,0,2016,8
+1841,E01004550,Wandsworth,Sexual Offences,Rape,0,2016,1
+1842,E01003700,Redbridge,Sexual Offences,Rape,0,2016,4
+1843,E01004001,Southwark,Sexual Offences,Rape,0,2016,8
+1844,E01003943,Southwark,Sexual Offences,Rape,0,2016,12
+1845,E01004550,Wandsworth,Sexual Offences,Rape,0,2016,7
+1846,E01004528,Wandsworth,Sexual Offences,Rape,0,2016,2
+1847,E01004570,Wandsworth,Sexual Offences,Rape,0,2016,7
+1848,E01002067,Haringey,Sexual Offences,Rape,0,2016,11
+1849,E01002003,Haringey,Sexual Offences,Rape,0,2016,11
+1850,E01001982,Haringey,Sexual Offences,Rape,0,2016,10
+1851,E01002569,Hounslow,Sexual Offences,Rape,0,2016,12
+1852,E01002583,Hounslow,Sexual Offences,Rape,0,2016,9
+1853,E01002604,Hounslow,Sexual Offences,Rape,0,2016,2
+1854,E01003302,Lewisham,Sexual Offences,Rape,0,2016,1
+1855,E01003302,Lewisham,Sexual Offences,Rape,0,2016,9
+1856,E01003232,Lewisham,Sexual Offences,Rape,0,2016,7
+1857,E01001640,Greenwich,Sexual Offences,Rape,0,2016,1
+1858,E01001637,Greenwich,Sexual Offences,Rape,0,2016,4
+1859,E01003786,Redbridge,Sexual Offences,Rape,0,2016,4
+1860,E01003948,Southwark,Sexual Offences,Rape,0,2016,6
+1861,E01003948,Southwark,Sexual Offences,Rape,0,2016,9
+1862,E01004509,Wandsworth,Sexual Offences,Rape,0,2016,9
+1863,E01002060,Haringey,Sexual Offences,Rape,0,2016,9
+1864,E01002356,Havering,Sexual Offences,Rape,0,2016,4
+1865,E01002604,Hounslow,Sexual Offences,Rape,0,2016,9
+1866,E01001578,Greenwich,Sexual Offences,Rape,0,2016,11
+1867,E01003640,Redbridge,Sexual Offences,Rape,0,2016,1
+1868,E01002455,Hillingdon,Sexual Offences,Rape,0,2016,5
+1869,E01002508,Hillingdon,Sexual Offences,Rape,0,2016,8
+1870,E01004625,Wandsworth,Sexual Offences,Rape,0,2016,5
+1871,E01004307,Tower Hamlets,Sexual Offences,Rape,0,2016,2
+1872,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2016,1
+1873,E01004420,Waltham Forest,Sexual Offences,Rape,0,2016,10
+1874,E01000033,Barking and Dagenham,Sexual Offences,Rape,0,2016,3
+1875,E01000070,Barking and Dagenham,Sexual Offences,Rape,0,2016,2
+1876,E01001087,Croydon,Sexual Offences,Rape,0,2016,9
+1877,E01001477,Enfield,Sexual Offences,Rape,0,2016,3
+1878,E01003186,Lambeth,Sexual Offences,Rape,0,2016,6
+1879,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2016,2
+1880,E01004224,Tower Hamlets,Sexual Offences,Rape,0,2016,3
+1881,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2016,10
+1882,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,10
+1883,E01004740,Westminster,Sexual Offences,Rape,0,2016,12
+1884,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2016,11
+1885,E01004208,Tower Hamlets,Sexual Offences,Rape,0,2016,10
+1886,E01002889,Kensington and Chelsea,Sexual Offences,Rape,0,2016,12
+1887,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2016,12
+1888,E01003783,Redbridge,Sexual Offences,Rape,0,2016,2
+1889,E01003783,Redbridge,Sexual Offences,Rape,0,2016,10
+1890,E01003921,Southwark,Sexual Offences,Rape,0,2016,4
+1891,E01003972,Southwark,Sexual Offences,Rape,0,2016,3
+1892,E01004509,Wandsworth,Sexual Offences,Rape,0,2016,8
+1893,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,4
+1894,E01002848,Kensington and Chelsea,Sexual Offences,Rape,0,2016,4
+1895,E01002730,Islington,Sexual Offences,Rape,0,2016,7
+1896,E01003921,Southwark,Sexual Offences,Rape,0,2016,7
+1897,E01004580,Wandsworth,Sexual Offences,Rape,0,2016,8
+1898,E01004536,Wandsworth,Sexual Offences,Rape,0,2016,1
+1899,E01002054,Haringey,Sexual Offences,Rape,0,2016,11
+1900,E01002282,Havering,Sexual Offences,Rape,0,2016,9
+1901,E01002560,Hounslow,Sexual Offences,Rape,0,2016,8
+1902,E01002668,Hounslow,Sexual Offences,Rape,0,2016,2
+1903,E01003291,Lewisham,Sexual Offences,Rape,0,2016,4
+1904,E01003226,Lewisham,Sexual Offences,Rape,0,2016,7
+1905,E01001640,Greenwich,Sexual Offences,Rape,0,2016,10
+1906,E01001625,Greenwich,Sexual Offences,Rape,0,2016,2
+1907,E01004735,Westminster,Sexual Offences,Rape,0,2016,10
+1908,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2016,8
+1909,E01004209,Tower Hamlets,Sexual Offences,Rape,0,2016,5
+1910,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2016,9
+1911,E01004251,Tower Hamlets,Sexual Offences,Rape,0,2016,1
+1912,E01004199,Tower Hamlets,Sexual Offences,Rape,0,2016,5
+1913,E01004336,Waltham Forest,Sexual Offences,Rape,0,2016,7
+1914,E01004342,Waltham Forest,Sexual Offences,Rape,0,2016,12
+1915,E01004378,Waltham Forest,Sexual Offences,Rape,0,2016,4
+1916,E01004342,Waltham Forest,Sexual Offences,Rape,0,2016,7
+1917,E01000093,Barking and Dagenham,Sexual Offences,Rape,0,2016,11
+1918,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2016,5
+1919,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,9
+1920,E01001935,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,4
+1921,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2016,10
+1922,E01004311,Tower Hamlets,Sexual Offences,Rape,0,2016,4
+1923,E01004339,Waltham Forest,Sexual Offences,Rape,0,2016,4
+1924,E01003009,Kingston upon Thames,Sexual Offences,Rape,0,2016,12
+1925,E01003896,Richmond upon Thames,Sexual Offences,Rape,0,2016,7
+1926,E01002730,Islington,Sexual Offences,Rape,0,2016,11
+1927,E01002756,Islington,Sexual Offences,Rape,0,2016,4
+1928,E01002756,Islington,Sexual Offences,Rape,0,2016,7
+1929,E01003640,Redbridge,Sexual Offences,Rape,0,2016,4
+1930,E01003772,Redbridge,Sexual Offences,Rape,0,2016,1
+1931,E01003786,Redbridge,Sexual Offences,Rape,0,2016,11
+1932,E01003943,Southwark,Sexual Offences,Rape,0,2016,10
+1933,E01002487,Hillingdon,Sexual Offences,Rape,0,2016,10
+1934,E01002447,Hillingdon,Sexual Offences,Rape,0,2016,1
+1935,E01004551,Wandsworth,Sexual Offences,Rape,0,2016,6
+1936,E01004528,Wandsworth,Sexual Offences,Rape,0,2016,1
+1937,E01001907,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,8
+1938,E01002812,Kensington and Chelsea,Sexual Offences,Rape,0,2016,2
+1939,E01002848,Kensington and Chelsea,Sexual Offences,Rape,0,2016,3
+1940,E01004229,Tower Hamlets,Sexual Offences,Rape,0,2016,8
+1941,E01000094,Barking and Dagenham,Sexual Offences,Rape,0,2016,5
+1942,E01002968,Kingston upon Thames,Sexual Offences,Rape,0,2016,2
+1943,E01001923,Hammersmith and Fulham,Sexual Offences,Rape,0,2016,6
+1944,E01002839,Kensington and Chelsea,Sexual Offences,Rape,0,2016,7
+1945,E01002912,Kensington and Chelsea,Sexual Offences,Rape,0,2016,12
+1946,E01000615,Brent,Violence Against the Person,Murder,0,2008,8
+1947,E01000635,Brent,Violence Against the Person,Murder,0,2008,1
+1948,E01033456,Brent,Violence Against the Person,Murder,0,2008,12
+1949,E01000545,Brent,Violence Against the Person,Murder,0,2008,3
+1950,E01000533,Brent,Violence Against the Person,Murder,0,2008,1
+1951,E01033485,Brent,Violence Against the Person,Murder,0,2008,10
+1952,E01000489,Brent,Violence Against the Person,Murder,0,2008,6
+1953,E01000259,Barnet,Violence Against the Person,Murder,0,2008,5
+1954,E01000407,Bexley,Violence Against the Person,Murder,0,2008,7
+1955,E01000470,Bexley,Violence Against the Person,Murder,0,2008,1
+1956,E01000914,Camden,Violence Against the Person,Murder,0,2008,7
+1957,E01001200,Ealing,Violence Against the Person,Murder,0,2008,5
+1958,E01033456,Brent,Violence Against the Person,Murder,0,2008,4
+1959,E01000483,Brent,Violence Against the Person,Murder,0,2008,3
+1960,E01000632,Brent,Violence Against the Person,Murder,0,2008,1
+1961,E01000518,Brent,Violence Against the Person,Murder,0,2008,8
+1962,E01000605,Brent,Violence Against the Person,Murder,0,2008,7
+1963,E01000605,Brent,Violence Against the Person,Murder,0,2008,5
+1964,E01000509,Brent,Violence Against the Person,Murder,0,2008,6
+1965,E01000167,Barnet,Violence Against the Person,Murder,0,2008,7
+1966,E01000268,Barnet,Violence Against the Person,Murder,0,2008,10
+1967,E01000381,Bexley,Violence Against the Person,Murder,0,2008,2
+1968,E01000914,Camden,Violence Against the Person,Murder,0,2008,9
+1969,E01000920,Camden,Violence Against the Person,Murder,0,2008,9
+1970,E01000914,Camden,Violence Against the Person,Murder,0,2008,12
+1971,E01001249,Ealing,Violence Against the Person,Murder,0,2008,7
+1972,E01001260,Ealing,Violence Against the Person,Murder,0,2008,6
+1973,E01001359,Ealing,Violence Against the Person,Murder,0,2008,1
+1974,E01000561,Brent,Violence Against the Person,Murder,0,2008,9
+1975,E01000624,Brent,Violence Against the Person,Murder,0,2008,12
+1976,E01000522,Brent,Violence Against the Person,Murder,0,2008,8
+1977,E01000511,Brent,Violence Against the Person,Murder,0,2008,10
+1978,E01000578,Brent,Violence Against the Person,Murder,0,2008,1
+1979,E01000489,Brent,Violence Against the Person,Murder,0,2008,9
+1980,E01000221,Barnet,Violence Against the Person,Murder,0,2008,12
+1981,E01000245,Barnet,Violence Against the Person,Murder,0,2008,3
+1982,E01000215,Barnet,Violence Against the Person,Murder,1,2008,10
+1983,E01000904,Camden,Violence Against the Person,Murder,0,2008,2
+1984,E01000924,Camden,Violence Against the Person,Murder,0,2008,8
+1985,E01000858,Camden,Violence Against the Person,Murder,0,2008,4
+1986,E01000929,Camden,Violence Against the Person,Murder,0,2008,1
+1987,E01000955,Camden,Violence Against the Person,Murder,0,2008,2
+1988,E01000868,Camden,Violence Against the Person,Murder,0,2008,9
+1989,E01000868,Camden,Violence Against the Person,Murder,0,2008,5
+1990,E01001367,Ealing,Violence Against the Person,Murder,0,2008,7
+1991,E01001334,Ealing,Violence Against the Person,Murder,0,2008,6
+1992,E01032743,Ealing,Violence Against the Person,Murder,0,2008,5
+1993,E01001252,Ealing,Violence Against the Person,Murder,0,2008,11
+1994,E01001238,Ealing,Violence Against the Person,Murder,0,2008,5
+1995,E01001334,Ealing,Violence Against the Person,Murder,0,2008,11
+1996,E01001221,Ealing,Violence Against the Person,Murder,0,2008,1
+1997,E01001232,Ealing,Violence Against the Person,Murder,0,2008,10
+1998,E01000479,Brent,Violence Against the Person,Murder,0,2008,9
+1999,E01000473,Brent,Violence Against the Person,Murder,0,2008,4
+2000,E01000632,Brent,Violence Against the Person,Murder,0,2008,5
+2001,E01000534,Brent,Violence Against the Person,Murder,0,2008,10
+2002,E01033464,Brent,Violence Against the Person,Murder,0,2008,12
+2003,E01000243,Barnet,Violence Against the Person,Murder,0,2008,4
+2004,E01000215,Barnet,Violence Against the Person,Murder,0,2008,1
+2005,E01000180,Barnet,Violence Against the Person,Murder,0,2008,4
+2006,E01000215,Barnet,Violence Against the Person,Murder,0,2008,12
+2007,E01000429,Bexley,Violence Against the Person,Murder,0,2008,3
+2008,E01000447,Bexley,Violence Against the Person,Murder,0,2008,3
+2009,E01000360,Bexley,Violence Against the Person,Murder,0,2008,7
+2010,E01000447,Bexley,Violence Against the Person,Murder,0,2008,4
+2011,E01000416,Bexley,Violence Against the Person,Murder,0,2008,11
+2012,E01000920,Camden,Violence Against the Person,Murder,0,2008,2
+2013,E01000956,Camden,Violence Against the Person,Murder,0,2008,1
+2014,E01000868,Camden,Violence Against the Person,Murder,0,2008,8
+2015,E01001316,Ealing,Violence Against the Person,Murder,0,2008,11
+2016,E01001206,Ealing,Violence Against the Person,Murder,0,2008,7
+2017,E01001206,Ealing,Violence Against the Person,Murder,0,2008,4
+2018,E01001246,Ealing,Violence Against the Person,Murder,0,2008,7
+2019,E01001242,Ealing,Violence Against the Person,Murder,0,2008,2
+2020,E01000593,Brent,Violence Against the Person,Murder,0,2008,10
+2021,E01000624,Brent,Violence Against the Person,Murder,0,2008,3
+2022,E01000482,Brent,Violence Against the Person,Murder,0,2008,9
+2023,E01000578,Brent,Violence Against the Person,Murder,0,2008,10
+2024,E01000489,Brent,Violence Against the Person,Murder,0,2008,7
+2025,E01000640,Brent,Violence Against the Person,Murder,0,2008,1
+2026,E01033424,Brent,Violence Against the Person,Murder,0,2008,9
+2027,E01033485,Brent,Violence Against the Person,Murder,0,2008,8
+2028,E01000243,Barnet,Violence Against the Person,Murder,0,2008,7
+2029,E01000215,Barnet,Violence Against the Person,Murder,0,2008,7
+2030,E01000289,Barnet,Violence Against the Person,Murder,0,2008,10
+2031,E01000298,Barnet,Violence Against the Person,Murder,0,2008,5
+2032,E01000180,Barnet,Violence Against the Person,Murder,0,2008,7
+2033,E01000257,Barnet,Violence Against the Person,Murder,0,2008,4
+2034,E01000129,Barnet,Violence Against the Person,Murder,0,2008,7
+2035,E01000435,Bexley,Violence Against the Person,Murder,0,2008,9
+2036,E01000468,Bexley,Violence Against the Person,Murder,0,2008,10
+2037,E01000942,Camden,Violence Against the Person,Murder,0,2008,12
+2038,E01000868,Camden,Violence Against the Person,Murder,0,2008,12
+2039,E01001225,Ealing,Violence Against the Person,Murder,0,2008,8
+2040,E01001367,Ealing,Violence Against the Person,Murder,0,2008,2
+2041,E01001216,Ealing,Violence Against the Person,Murder,0,2008,1
+2042,E01001351,Ealing,Violence Against the Person,Murder,0,2008,1
+2043,E01032743,Ealing,Violence Against the Person,Murder,0,2008,1
+2044,E01001359,Ealing,Violence Against the Person,Murder,0,2008,7
+2045,E01000559,Brent,Violence Against the Person,Murder,0,2008,8
+2046,E01000591,Brent,Violence Against the Person,Murder,0,2008,6
+2047,E01000180,Barnet,Violence Against the Person,Murder,0,2008,10
+2048,E01000180,Barnet,Violence Against the Person,Murder,0,2008,6
+2049,E01000247,Barnet,Violence Against the Person,Murder,0,2008,5
+2050,E01033572,Barnet,Violence Against the Person,Murder,0,2008,1
+2051,E01000180,Barnet,Violence Against the Person,Murder,0,2008,5
+2052,E01000259,Barnet,Violence Against the Person,Murder,0,2008,9
+2053,E01000195,Barnet,Violence Against the Person,Murder,0,2008,2
+2054,E01000462,Bexley,Violence Against the Person,Murder,1,2008,5
+2055,E01000868,Camden,Violence Against the Person,Murder,0,2008,4
+2056,E01000929,Camden,Violence Against the Person,Murder,0,2008,2
+2057,E01001200,Ealing,Violence Against the Person,Murder,0,2008,3
+2058,E01001340,Ealing,Violence Against the Person,Murder,0,2008,7
+2059,E01001266,Ealing,Violence Against the Person,Murder,0,2008,12
+2060,E01001260,Ealing,Violence Against the Person,Murder,0,2008,9
+2061,E01001358,Ealing,Violence Against the Person,Murder,0,2008,5
+2062,E01001266,Ealing,Violence Against the Person,Murder,0,2008,7
+2063,E01001348,Ealing,Violence Against the Person,Murder,0,2008,11
+2064,E01001340,Ealing,Violence Against the Person,Murder,0,2008,1
+2065,E01001323,Ealing,Violence Against the Person,Murder,0,2008,12
+2066,E01002199,Harrow,Violence Against the Person,Murder,0,2008,6
+2067,E01003430,Merton,Violence Against the Person,Murder,0,2008,12
+2068,E01002177,Harrow,Violence Against the Person,Murder,0,2008,11
+2069,E01003440,Merton,Violence Against the Person,Murder,0,2008,12
+2070,E01003440,Merton,Violence Against the Person,Murder,0,2008,7
+2071,E01003590,Newham,Violence Against the Person,Murder,0,2008,4
+2072,E01003544,Newham,Violence Against the Person,Murder,0,2008,12
+2073,E01003553,Newham,Violence Against the Person,Murder,0,2008,12
+2074,E01003531,Newham,Violence Against the Person,Murder,0,2008,9
+2075,E01003594,Newham,Violence Against the Person,Murder,0,2008,8
+2076,E01003627,Newham,Violence Against the Person,Murder,0,2008,12
+2077,E01004083,Sutton,Violence Against the Person,Murder,0,2008,12
+2078,E01000791,Bromley,Violence Against the Person,Murder,0,2008,2
+2079,E01000635,Brent,Violence Against the Person,Murder,0,2008,7
+2080,E01000600,Brent,Violence Against the Person,Murder,0,2008,9
+2081,E01000525,Brent,Violence Against the Person,Murder,0,2008,8
+2082,E01000557,Brent,Violence Against the Person,Murder,0,2008,3
+2083,E01000215,Barnet,Violence Against the Person,Murder,0,2008,3
+2084,E01000197,Barnet,Violence Against the Person,Murder,0,2008,12
+2085,E01000289,Barnet,Violence Against the Person,Murder,0,2008,7
+2086,E01000407,Bexley,Violence Against the Person,Murder,0,2008,5
+2087,E01000447,Bexley,Violence Against the Person,Murder,0,2008,6
+2088,E01000861,Camden,Violence Against the Person,Murder,0,2008,4
+2089,E01000863,Camden,Violence Against the Person,Murder,0,2008,3
+2090,E01001364,Ealing,Violence Against the Person,Murder,0,2008,11
+2091,E01001242,Ealing,Violence Against the Person,Murder,0,2008,1
+2092,E01001388,Ealing,Violence Against the Person,Murder,0,2008,6
+2093,E01001351,Ealing,Violence Against the Person,Murder,0,2008,2
+2094,E01001359,Ealing,Violence Against the Person,Murder,0,2008,4
+2095,E01001364,Ealing,Violence Against the Person,Murder,0,2008,10
+2096,E01001202,Ealing,Violence Against the Person,Murder,0,2008,6
+2097,E01002222,Harrow,Violence Against the Person,Murder,0,2008,3
+2098,E01003391,Merton,Violence Against the Person,Murder,0,2008,9
+2099,E01003359,Merton,Violence Against the Person,Murder,0,2008,6
+2100,E01003562,Newham,Violence Against the Person,Murder,0,2008,4
+2101,E01003490,Newham,Violence Against the Person,Murder,0,2008,7
+2102,E01003600,Newham,Violence Against the Person,Murder,0,2008,8
+2103,E01003490,Newham,Violence Against the Person,Murder,0,2008,11
+2104,E01003601,Newham,Violence Against the Person,Murder,0,2008,9
+2105,E01003539,Newham,Violence Against the Person,Murder,0,2008,7
+2106,E01000676,Bromley,Violence Against the Person,Murder,0,2008,10
+2107,E01000720,Bromley,Violence Against the Person,Murder,0,2008,2
+2108,E01000795,Bromley,Violence Against the Person,Murder,0,2008,4
+2109,E01002179,Harrow,Violence Against the Person,Murder,0,2008,10
+2110,E01002129,Harrow,Violence Against the Person,Murder,0,2008,11
+2111,E01003430,Merton,Violence Against the Person,Murder,0,2008,2
+2112,E01003391,Merton,Violence Against the Person,Murder,0,2008,10
+2113,E01003541,Newham,Violence Against the Person,Murder,0,2008,2
+2114,E01003567,Newham,Violence Against the Person,Murder,0,2008,4
+2115,E01003544,Newham,Violence Against the Person,Murder,0,2008,1
+2116,E01003611,Newham,Violence Against the Person,Murder,0,2008,5
+2117,E01003570,Newham,Violence Against the Person,Murder,0,2008,3
+2118,E01003617,Newham,Violence Against the Person,Murder,0,2008,12
+2119,E01004176,Sutton,Violence Against the Person,Murder,0,2008,10
+2120,E01004106,Sutton,Violence Against the Person,Murder,0,2008,8
+2121,E01004090,Sutton,Violence Against the Person,Murder,0,2008,1
+2122,E01004110,Sutton,Violence Against the Person,Murder,0,2008,8
+2123,E01000822,Bromley,Violence Against the Person,Murder,0,2008,3
+2124,E01002183,Harrow,Violence Against the Person,Murder,0,2008,5
+2125,E01002179,Harrow,Violence Against the Person,Murder,0,2008,11
+2126,E01002236,Harrow,Violence Against the Person,Murder,0,2008,9
+2127,E01003396,Merton,Violence Against the Person,Murder,0,2008,7
+2128,E01003390,Merton,Violence Against the Person,Murder,0,2008,4
+2129,E01003586,Newham,Violence Against the Person,Murder,0,2008,5
+2130,E01003567,Newham,Violence Against the Person,Murder,0,2008,3
+2131,E01003609,Newham,Violence Against the Person,Murder,0,2008,6
+2132,E01003553,Newham,Violence Against the Person,Murder,0,2008,8
+2133,E01003528,Newham,Violence Against the Person,Murder,0,2008,5
+2134,E01003636,Newham,Violence Against the Person,Murder,0,2008,10
+2135,E01004089,Sutton,Violence Against the Person,Murder,0,2008,7
+2136,E01004125,Sutton,Violence Against the Person,Murder,0,2008,8
+2137,E01004083,Sutton,Violence Against the Person,Murder,0,2008,1
+2138,E01000799,Bromley,Violence Against the Person,Murder,0,2008,12
+2139,E01000676,Bromley,Violence Against the Person,Murder,0,2008,12
+2140,E01000795,Bromley,Violence Against the Person,Murder,0,2008,1
+2141,E01002135,Harrow,Violence Against the Person,Murder,0,2008,12
+2142,E01003396,Merton,Violence Against the Person,Murder,0,2008,9
+2143,E01003575,Newham,Violence Against the Person,Murder,0,2008,4
+2144,E01003628,Newham,Violence Against the Person,Murder,0,2008,8
+2145,E01003563,Newham,Violence Against the Person,Murder,0,2008,1
+2146,E01003636,Newham,Violence Against the Person,Murder,0,2008,6
+2147,E01003490,Newham,Violence Against the Person,Murder,0,2008,4
+2148,E01003558,Newham,Violence Against the Person,Murder,1,2008,8
+2149,E01003602,Newham,Violence Against the Person,Murder,0,2008,6
+2150,E01003594,Newham,Violence Against the Person,Murder,0,2008,5
+2151,E01003617,Newham,Violence Against the Person,Murder,0,2008,1
+2152,E01004142,Sutton,Violence Against the Person,Murder,0,2008,2
+2153,E01000799,Bromley,Violence Against the Person,Murder,0,2008,2
+2154,E01000840,Bromley,Violence Against the Person,Murder,0,2008,8
+2155,E01001066,Croydon,Violence Against the Person,Murder,0,2008,3
+2156,E01001011,Croydon,Violence Against the Person,Murder,0,2008,6
+2157,E01001194,Croydon,Violence Against the Person,Murder,0,2008,3
+2158,E01001036,Croydon,Violence Against the Person,Murder,0,2008,3
+2159,E01001061,Croydon,Violence Against the Person,Murder,0,2008,11
+2160,E01001051,Croydon,Violence Against the Person,Murder,0,2008,3
+2161,E01001183,Croydon,Violence Against the Person,Murder,0,2008,9
+2162,E01001547,Enfield,Violence Against the Person,Murder,0,2008,7
+2163,E01001513,Enfield,Violence Against the Person,Murder,0,2008,5
+2164,E01001515,Enfield,Violence Against the Person,Murder,0,2008,4
+2165,E01001499,Enfield,Violence Against the Person,Murder,0,2008,3
+2166,E01001549,Enfield,Violence Against the Person,Murder,0,2008,3
+2167,E01001552,Enfield,Violence Against the Person,Murder,0,2008,6
+2168,E01001718,Hackney,Violence Against the Person,Murder,0,2008,12
+2169,E01001804,Hackney,Violence Against the Person,Murder,0,2008,2
+2170,E01001718,Hackney,Violence Against the Person,Murder,0,2008,5
+2171,E01001759,Hackney,Violence Against the Person,Murder,0,2008,6
+2172,E01001731,Hackney,Violence Against the Person,Murder,0,2008,5
+2173,E01001760,Hackney,Violence Against the Person,Murder,0,2008,7
+2174,E01003155,Lambeth,Violence Against the Person,Murder,0,2008,11
+2175,E01003024,Lambeth,Violence Against the Person,Murder,0,2008,6
+2176,E01003061,Lambeth,Violence Against the Person,Murder,0,2008,2
+2177,E01001154,Croydon,Violence Against the Person,Murder,0,2008,4
+2178,E01001150,Croydon,Violence Against the Person,Murder,0,2008,8
+2179,E01001149,Croydon,Violence Against the Person,Murder,0,2008,7
+2180,E01001432,Enfield,Violence Against the Person,Murder,0,2008,7
+2181,E01032574,Enfield,Violence Against the Person,Murder,0,2008,2
+2182,E01033148,Enfield,Violence Against the Person,Murder,0,2008,11
+2183,E01001515,Enfield,Violence Against the Person,Murder,0,2008,1
+2184,E01001509,Enfield,Violence Against the Person,Murder,0,2008,8
+2185,E01033148,Enfield,Violence Against the Person,Murder,0,2008,4
+2186,E01001839,Hackney,Violence Against the Person,Murder,0,2008,9
+2187,E01001730,Hackney,Violence Against the Person,Murder,0,2008,1
+2188,E01033709,Hackney,Violence Against the Person,Murder,0,2008,4
+2189,E01001839,Hackney,Violence Against the Person,Murder,0,2008,4
+2190,E01001776,Hackney,Violence Against the Person,Murder,0,2008,12
+2191,E01001777,Hackney,Violence Against the Person,Murder,0,2008,11
+2192,E01001722,Hackney,Violence Against the Person,Murder,0,2008,5
+2193,E01001736,Hackney,Violence Against the Person,Murder,0,2008,2
+2194,E01003123,Lambeth,Violence Against the Person,Murder,0,2008,9
+2195,E01003150,Lambeth,Violence Against the Person,Murder,0,2008,1
+2196,E01003055,Lambeth,Violence Against the Person,Murder,0,2008,2
+2197,E01003077,Lambeth,Violence Against the Person,Murder,0,2008,11
+2198,E01003166,Lambeth,Violence Against the Person,Murder,0,2008,3
+2199,E01033583,Newham,Violence Against the Person,Murder,0,2008,1
+2200,E01003590,Newham,Violence Against the Person,Murder,0,2008,12
+2201,E01003482,Newham,Violence Against the Person,Murder,0,2008,12
+2202,E01003590,Newham,Violence Against the Person,Murder,0,2008,9
+2203,E01003575,Newham,Violence Against the Person,Murder,0,2008,3
+2204,E01004125,Sutton,Violence Against the Person,Murder,0,2008,12
+2205,E01000822,Bromley,Violence Against the Person,Murder,0,2008,11
+2206,E01000823,Bromley,Violence Against the Person,Murder,0,2008,2
+2207,E01001178,Croydon,Violence Against the Person,Murder,0,2008,6
+2208,E01001106,Croydon,Violence Against the Person,Murder,0,2008,12
+2209,E01001432,Enfield,Violence Against the Person,Murder,0,2008,6
+2210,E01001455,Enfield,Violence Against the Person,Murder,0,2008,3
+2211,E01001424,Enfield,Violence Against the Person,Murder,0,2008,5
+2212,E01033151,Enfield,Violence Against the Person,Murder,0,2008,5
+2213,E01033709,Hackney,Violence Against the Person,Murder,0,2008,11
+2214,E01001722,Hackney,Violence Against the Person,Murder,0,2008,8
+2215,E01001807,Hackney,Violence Against the Person,Murder,0,2008,4
+2216,E01001849,Hackney,Violence Against the Person,Murder,0,2008,1
+2217,E01001734,Hackney,Violence Against the Person,Murder,0,2008,10
+2218,E01001013,Croydon,Violence Against the Person,Murder,0,2008,4
+2219,E01001051,Croydon,Violence Against the Person,Murder,0,2008,7
+2220,E01001194,Croydon,Violence Against the Person,Murder,0,2008,5
+2221,E01001011,Croydon,Violence Against the Person,Murder,0,2008,11
+2222,E01001552,Enfield,Violence Against the Person,Murder,0,2008,9
+2223,E01001551,Enfield,Violence Against the Person,Murder,0,2008,10
+2224,E01001487,Enfield,Violence Against the Person,Murder,0,2008,2
+2225,E01001839,Hackney,Violence Against the Person,Murder,0,2008,11
+2226,E01001808,Hackney,Violence Against the Person,Murder,0,2008,12
+2227,E01001781,Hackney,Violence Against the Person,Murder,0,2008,5
+2228,E01003125,Lambeth,Violence Against the Person,Murder,0,2008,6
+2229,E01003017,Lambeth,Violence Against the Person,Murder,0,2008,6
+2230,E01003179,Lambeth,Violence Against the Person,Murder,0,2008,9
+2231,E01003051,Lambeth,Violence Against the Person,Murder,1,2008,9
+2232,E01003060,Lambeth,Violence Against the Person,Murder,0,2008,7
+2233,E01003034,Lambeth,Violence Against the Person,Murder,0,2008,1
+2234,E01003150,Lambeth,Violence Against the Person,Murder,0,2008,11
+2235,E01002177,Harrow,Violence Against the Person,Murder,0,2008,1
+2236,E01002183,Harrow,Violence Against the Person,Murder,0,2008,9
+2237,E01003396,Merton,Violence Against the Person,Murder,0,2008,1
+2238,E01003389,Merton,Violence Against the Person,Murder,0,2008,5
+2239,E01003390,Merton,Violence Against the Person,Murder,0,2008,1
+2240,E01003563,Newham,Violence Against the Person,Murder,0,2008,9
+2241,E01003528,Newham,Violence Against the Person,Murder,0,2008,3
+2242,E01003578,Newham,Violence Against the Person,Murder,0,2008,9
+2243,E01003545,Newham,Violence Against the Person,Murder,0,2008,11
+2244,E01003578,Newham,Violence Against the Person,Murder,0,2008,6
+2245,E01003537,Newham,Violence Against the Person,Murder,0,2008,2
+2246,E01004183,Sutton,Violence Against the Person,Murder,0,2008,10
+2247,E01004183,Sutton,Violence Against the Person,Murder,0,2008,8
+2248,E01004153,Sutton,Violence Against the Person,Murder,0,2008,2
+2249,E01000648,Bromley,Violence Against the Person,Murder,0,2008,2
+2250,E01000840,Bromley,Violence Against the Person,Murder,0,2008,3
+2251,E01002078,Haringey,Violence Against the Person,Murder,0,2008,7
+2252,E01001982,Haringey,Violence Against the Person,Murder,0,2008,5
+2253,E01002058,Haringey,Violence Against the Person,Murder,0,2008,9
+2254,E01002087,Haringey,Violence Against the Person,Murder,0,2008,6
+2255,E01002071,Haringey,Violence Against the Person,Murder,0,2008,12
+2256,E01002099,Haringey,Violence Against the Person,Murder,0,2008,7
+2257,E01002087,Haringey,Violence Against the Person,Murder,0,2008,7
+2258,E01002051,Haringey,Violence Against the Person,Murder,0,2008,1
+2259,E01002370,Havering,Violence Against the Person,Murder,0,2008,7
+2260,E01002637,Hounslow,Violence Against the Person,Murder,0,2008,9
+2261,E01003302,Lewisham,Violence Against the Person,Murder,0,2008,7
+2262,E01003253,Lewisham,Violence Against the Person,Murder,0,2008,1
+2263,E01003317,Lewisham,Violence Against the Person,Murder,0,2008,12
+2264,E01003336,Lewisham,Violence Against the Person,Murder,0,2008,10
+2265,E01003285,Lewisham,Violence Against the Person,Murder,0,2008,12
+2266,E01003343,Lewisham,Violence Against the Person,Murder,0,2008,8
+2267,E01003230,Lewisham,Violence Against the Person,Murder,0,2008,6
+2268,E01003335,Lewisham,Violence Against the Person,Murder,0,2008,1
+2269,E01001634,Greenwich,Violence Against the Person,Murder,0,2008,6
+2270,E01001690,Greenwich,Violence Against the Person,Murder,0,2008,7
+2271,E01001690,Greenwich,Violence Against the Person,Murder,0,2008,2
+2272,E01001692,Greenwich,Violence Against the Person,Murder,0,2008,7
+2273,E01002020,Haringey,Violence Against the Person,Murder,0,2008,11
+2274,E01002084,Haringey,Violence Against the Person,Murder,0,2008,9
+2275,E01002100,Haringey,Violence Against the Person,Murder,0,2008,11
+2276,E01002087,Haringey,Violence Against the Person,Murder,0,2008,11
+2277,E01002066,Haringey,Violence Against the Person,Murder,0,2008,4
+2278,E01002672,Hounslow,Violence Against the Person,Murder,0,2008,9
+2279,E01002567,Hounslow,Violence Against the Person,Murder,0,2008,5
+2280,E01002658,Hounslow,Violence Against the Person,Murder,0,2008,10
+2281,E01002681,Hounslow,Violence Against the Person,Murder,0,2008,10
+2282,E01003335,Lewisham,Violence Against the Person,Murder,0,2008,4
+2283,E01003321,Lewisham,Violence Against the Person,Murder,0,2008,5
+2284,E01033327,Lewisham,Violence Against the Person,Murder,0,2008,1
+2285,E01003324,Lewisham,Violence Against the Person,Murder,1,2008,6
+2286,E01003346,Lewisham,Violence Against the Person,Murder,0,2008,7
+2287,E01003343,Lewisham,Violence Against the Person,Murder,0,2008,7
+2288,E01003251,Lewisham,Violence Against the Person,Murder,0,2008,11
+2289,E01001673,Greenwich,Violence Against the Person,Murder,0,2008,9
+2290,E01001582,Greenwich,Violence Against the Person,Murder,0,2008,7
+2291,E01033735,Greenwich,Violence Against the Person,Murder,0,2008,5
+2292,E01001191,Croydon,Violence Against the Person,Murder,0,2008,8
+2293,E01001109,Croydon,Violence Against the Person,Murder,0,2008,2
+2294,E01001183,Croydon,Violence Against the Person,Murder,0,2008,10
+2295,E01001118,Croydon,Violence Against the Person,Murder,0,2008,5
+2296,E01001043,Croydon,Violence Against the Person,Murder,0,2008,4
+2297,E01001118,Croydon,Violence Against the Person,Murder,0,2008,10
+2298,E01001066,Croydon,Violence Against the Person,Murder,0,2008,12
+2299,E01001467,Enfield,Violence Against the Person,Murder,0,2008,4
+2300,E01001507,Enfield,Violence Against the Person,Murder,0,2008,6
+2301,E01001391,Enfield,Violence Against the Person,Murder,0,2008,8
+2302,E01001411,Enfield,Violence Against the Person,Murder,0,2008,6
+2303,E01001777,Hackney,Violence Against the Person,Murder,0,2008,4
+2304,E01001718,Hackney,Violence Against the Person,Murder,0,2008,3
+2305,E01001846,Hackney,Violence Against the Person,Murder,0,2008,2
+2306,E01001781,Hackney,Violence Against the Person,Murder,0,2008,10
+2307,E01003017,Lambeth,Violence Against the Person,Murder,0,2008,10
+2308,E01003034,Lambeth,Violence Against the Person,Murder,0,2008,9
+2309,E01003155,Lambeth,Violence Against the Person,Murder,0,2008,8
+2310,E01003046,Lambeth,Violence Against the Person,Murder,0,2008,4
+2311,E01001066,Croydon,Violence Against the Person,Murder,0,2008,11
+2312,E01001024,Croydon,Violence Against the Person,Murder,0,2008,6
+2313,E01000981,Croydon,Violence Against the Person,Murder,0,2008,10
+2314,E01001109,Croydon,Violence Against the Person,Murder,0,2008,1
+2315,E01001183,Croydon,Violence Against the Person,Murder,0,2008,5
+2316,E01001150,Croydon,Violence Against the Person,Murder,0,2008,2
+2317,E01001009,Croydon,Violence Against the Person,Murder,0,2008,12
+2318,E01001508,Enfield,Violence Against the Person,Murder,0,2008,9
+2319,E01001759,Hackney,Violence Against the Person,Murder,0,2008,1
+2320,E01001838,Hackney,Violence Against the Person,Murder,0,2008,12
+2321,E01001730,Hackney,Violence Against the Person,Murder,0,2008,2
+2322,E01001776,Hackney,Violence Against the Person,Murder,0,2008,1
+2323,E01001731,Hackney,Violence Against the Person,Murder,0,2008,2
+2324,E01001722,Hackney,Violence Against the Person,Murder,0,2008,6
+2325,E01001777,Hackney,Violence Against the Person,Murder,0,2008,1
+2326,E01001722,Hackney,Violence Against the Person,Murder,0,2008,11
+2327,E01003077,Lambeth,Violence Against the Person,Murder,0,2008,3
+2328,E01003089,Lambeth,Violence Against the Person,Murder,0,2008,6
+2329,E01003047,Lambeth,Violence Against the Person,Murder,0,2008,8
+2330,E01003130,Lambeth,Violence Against the Person,Murder,0,2008,8
+2331,E01001978,Haringey,Violence Against the Person,Murder,0,2008,4
+2332,E01002045,Haringey,Violence Against the Person,Murder,0,2008,7
+2333,E01002045,Haringey,Violence Against the Person,Murder,0,2008,2
+2334,E01002045,Haringey,Violence Against the Person,Murder,0,2008,11
+2335,E01001976,Haringey,Violence Against the Person,Murder,0,2008,6
+2336,E01002026,Haringey,Violence Against the Person,Murder,0,2008,11
+2337,E01002036,Haringey,Violence Against the Person,Murder,0,2008,8
+2338,E01002100,Haringey,Violence Against the Person,Murder,0,2008,4
+2339,E01003302,Lewisham,Violence Against the Person,Murder,0,2008,8
+2340,E01003286,Lewisham,Violence Against the Person,Murder,0,2008,5
+2341,E01003337,Lewisham,Violence Against the Person,Murder,0,2008,3
+2342,E01001671,Greenwich,Violence Against the Person,Murder,0,2008,4
+2343,E01001697,Greenwich,Violence Against the Person,Murder,0,2008,5
+2344,E01001578,Greenwich,Violence Against the Person,Murder,0,2008,7
+2345,E01001682,Greenwich,Violence Against the Person,Murder,0,2008,4
+2346,E01033735,Greenwich,Violence Against the Person,Murder,0,2008,4
+2347,E01001591,Greenwich,Violence Against the Person,Murder,0,2008,11
+2348,E01001615,Greenwich,Violence Against the Person,Murder,0,2008,9
+2349,E01001649,Greenwich,Violence Against the Person,Murder,0,2008,8
+2350,E01001625,Greenwich,Violence Against the Person,Murder,0,2008,5
+2351,E01001667,Greenwich,Violence Against the Person,Murder,0,2008,8
+2352,E01003076,Lambeth,Violence Against the Person,Murder,1,2008,12
+2353,E01003089,Lambeth,Violence Against the Person,Murder,0,2008,12
+2354,E01003048,Lambeth,Violence Against the Person,Murder,0,2008,11
+2355,E01003075,Lambeth,Violence Against the Person,Murder,0,2008,4
+2356,E01003166,Lambeth,Violence Against the Person,Murder,0,2008,1
+2357,E01003048,Lambeth,Violence Against the Person,Murder,0,2008,5
+2358,E01001971,Haringey,Violence Against the Person,Murder,0,2008,1
+2359,E01002069,Haringey,Violence Against the Person,Murder,0,2008,12
+2360,E01002025,Haringey,Violence Against the Person,Murder,0,2008,2
+2361,E01002025,Haringey,Violence Against the Person,Murder,0,2008,9
+2362,E01002600,Hounslow,Violence Against the Person,Murder,0,2008,10
+2363,E01002638,Hounslow,Violence Against the Person,Murder,0,2008,8
+2364,E01003296,Lewisham,Violence Against the Person,Murder,0,2008,2
+2365,E01003333,Lewisham,Violence Against the Person,Murder,0,2008,8
+2366,E01003190,Lewisham,Violence Against the Person,Murder,0,2008,3
+2367,E01003237,Lewisham,Violence Against the Person,Murder,0,2008,10
+2368,E01001640,Greenwich,Violence Against the Person,Murder,0,2008,8
+2369,E01001700,Greenwich,Violence Against the Person,Murder,0,2008,4
+2370,E01001690,Greenwich,Violence Against the Person,Murder,0,2008,12
+2371,E01002710,Islington,Violence Against the Person,Murder,0,2008,5
+2372,E01002753,Islington,Violence Against the Person,Murder,0,2008,12
+2373,E01002739,Islington,Violence Against the Person,Murder,0,2008,2
+2374,E01002728,Islington,Violence Against the Person,Murder,0,2008,2
+2375,E01002739,Islington,Violence Against the Person,Murder,0,2008,12
+2376,E01002799,Islington,Violence Against the Person,Murder,0,2008,1
+2377,E01002730,Islington,Violence Against the Person,Murder,0,2008,8
+2378,E01002697,Islington,Violence Against the Person,Murder,0,2008,8
+2379,E01002772,Islington,Violence Against the Person,Murder,0,2008,3
+2380,E01033492,Islington,Violence Against the Person,Murder,0,2008,1
+2381,E01002709,Islington,Violence Against the Person,Murder,0,2008,3
+2382,E01032581,Redbridge,Violence Against the Person,Murder,0,2008,10
+2383,E01003936,Southwark,Violence Against the Person,Murder,1,2008,6
+2384,E01003988,Southwark,Violence Against the Person,Murder,0,2008,3
+2385,E01004052,Southwark,Violence Against the Person,Murder,0,2008,5
+2386,E01003958,Southwark,Violence Against the Person,Murder,0,2008,5
+2387,E01003938,Southwark,Violence Against the Person,Murder,0,2008,10
+2388,E01003969,Southwark,Violence Against the Person,Murder,0,2008,12
+2389,E01002497,Hillingdon,Violence Against the Person,Murder,0,2008,11
+2390,E01002543,Hillingdon,Violence Against the Person,Murder,0,2008,5
+2391,E01002407,Hillingdon,Violence Against the Person,Murder,0,2008,4
+2392,E01004493,Wandsworth,Violence Against the Person,Murder,0,2008,2
+2393,E01002712,Islington,Violence Against the Person,Murder,0,2008,3
+2394,E01002765,Islington,Violence Against the Person,Murder,0,2008,4
+2395,E01002709,Islington,Violence Against the Person,Murder,0,2008,1
+2396,E01002783,Islington,Violence Against the Person,Murder,0,2008,7
+2397,E01002739,Islington,Violence Against the Person,Murder,0,2008,7
+2398,E01003734,Redbridge,Violence Against the Person,Murder,0,2008,5
+2399,E01003729,Redbridge,Violence Against the Person,Murder,0,2008,6
+2400,E01003696,Redbridge,Violence Against the Person,Murder,0,2008,6
+2401,E01004035,Southwark,Violence Against the Person,Murder,0,2008,9
+2402,E01004005,Southwark,Violence Against the Person,Murder,0,2008,11
+2403,E01003951,Southwark,Violence Against the Person,Murder,0,2008,12
+2404,E01004039,Southwark,Violence Against the Person,Murder,0,2008,1
+2405,E01004012,Southwark,Violence Against the Person,Murder,0,2008,3
+2406,E01003997,Southwark,Violence Against the Person,Murder,0,2008,4
+2407,E01004035,Southwark,Violence Against the Person,Murder,0,2008,1
+2408,E01003990,Southwark,Violence Against the Person,Murder,0,2008,9
+2409,E01003921,Southwark,Violence Against the Person,Murder,0,2008,7
+2410,E01004007,Southwark,Violence Against the Person,Murder,0,2008,11
+2411,E01003967,Southwark,Violence Against the Person,Murder,0,2008,4
+2412,E01003929,Southwark,Violence Against the Person,Murder,0,2008,3
+2413,E01002414,Hillingdon,Violence Against the Person,Murder,0,2008,5
+2414,E01002537,Hillingdon,Violence Against the Person,Murder,0,2008,7
+2415,E01002408,Hillingdon,Violence Against the Person,Murder,0,2008,12
+2416,E01002414,Hillingdon,Violence Against the Person,Murder,0,2008,10
+2417,E01002497,Hillingdon,Violence Against the Person,Murder,0,2008,1
+2418,E01004489,Wandsworth,Violence Against the Person,Murder,0,2008,9
+2419,E01004563,Wandsworth,Violence Against the Person,Murder,0,2008,10
+2420,E01002066,Haringey,Violence Against the Person,Murder,0,2008,2
+2421,E01002637,Hounslow,Violence Against the Person,Murder,0,2008,5
+2422,E01002675,Hounslow,Violence Against the Person,Murder,1,2008,10
+2423,E01003231,Lewisham,Violence Against the Person,Murder,0,2008,4
+2424,E01003203,Lewisham,Violence Against the Person,Murder,0,2008,10
+2425,E01003200,Lewisham,Violence Against the Person,Murder,0,2008,5
+2426,E01003296,Lewisham,Violence Against the Person,Murder,0,2008,9
+2427,E01003327,Lewisham,Violence Against the Person,Murder,0,2008,4
+2428,E01003324,Lewisham,Violence Against the Person,Murder,0,2008,3
+2429,E01003240,Lewisham,Violence Against the Person,Murder,0,2008,1
+2430,E01003237,Lewisham,Violence Against the Person,Murder,0,2008,5
+2431,E01001595,Greenwich,Violence Against the Person,Murder,0,2008,6
+2432,E01033726,Greenwich,Violence Against the Person,Murder,0,2008,6
+2433,E01001597,Greenwich,Violence Against the Person,Murder,0,2008,6
+2434,E01001578,Greenwich,Violence Against the Person,Murder,0,2008,3
+2435,E01001602,Greenwich,Violence Against the Person,Murder,0,2008,12
+2436,E01001595,Greenwich,Violence Against the Person,Murder,0,2008,4
+2437,E01033735,Greenwich,Violence Against the Person,Murder,0,2008,7
+2438,E01002728,Islington,Violence Against the Person,Murder,0,2008,10
+2439,E01002795,Islington,Violence Against the Person,Murder,0,2008,7
+2440,E01002720,Islington,Violence Against the Person,Murder,0,2008,7
+2441,E01002723,Islington,Violence Against the Person,Murder,0,2008,1
+2442,E01002781,Islington,Violence Against the Person,Murder,0,2008,4
+2443,E01003758,Redbridge,Violence Against the Person,Murder,0,2008,11
+2444,E01003974,Southwark,Violence Against the Person,Murder,0,2008,12
+2445,E01003927,Southwark,Violence Against the Person,Murder,0,2008,6
+2446,E01003936,Southwark,Violence Against the Person,Murder,0,2008,1
+2447,E01003970,Southwark,Violence Against the Person,Murder,0,2008,4
+2448,E01003958,Southwark,Violence Against the Person,Murder,0,2008,3
+2449,E01003921,Southwark,Violence Against the Person,Murder,0,2008,10
+2450,E01004005,Southwark,Violence Against the Person,Murder,0,2008,8
+2451,E01002543,Hillingdon,Violence Against the Person,Murder,0,2008,6
+2452,E01002449,Hillingdon,Violence Against the Person,Murder,0,2008,7
+2453,E01002543,Hillingdon,Violence Against the Person,Murder,0,2008,11
+2454,E01004537,Wandsworth,Violence Against the Person,Murder,0,2008,9
+2455,E01004539,Wandsworth,Violence Against the Person,Murder,0,2008,7
+2456,E01004565,Wandsworth,Violence Against the Person,Murder,0,2008,11
+2457,E01004589,Wandsworth,Violence Against the Person,Murder,0,2008,5
+2458,E01004499,Wandsworth,Violence Against the Person,Murder,0,2008,12
+2459,E01001978,Haringey,Violence Against the Person,Murder,0,2008,5
+2460,E01002056,Haringey,Violence Against the Person,Murder,0,2008,5
+2461,E01002268,Havering,Violence Against the Person,Murder,0,2008,2
+2462,E01002332,Havering,Violence Against the Person,Murder,0,2008,11
+2463,E01002681,Hounslow,Violence Against the Person,Murder,0,2008,5
+2464,E01002638,Hounslow,Violence Against the Person,Murder,0,2008,4
+2465,E01003321,Lewisham,Violence Against the Person,Murder,0,2008,8
+2466,E01003324,Lewisham,Violence Against the Person,Murder,0,2008,7
+2467,E01003321,Lewisham,Violence Against the Person,Murder,0,2008,3
+2468,E01003266,Lewisham,Violence Against the Person,Murder,0,2008,9
+2469,E01003299,Lewisham,Violence Against the Person,Murder,0,2008,12
+2470,E01003343,Lewisham,Violence Against the Person,Murder,0,2008,3
+2471,E01001692,Greenwich,Violence Against the Person,Murder,0,2008,3
+2472,E01001657,Greenwich,Violence Against the Person,Murder,0,2008,1
+2473,E01001590,Greenwich,Violence Against the Person,Murder,0,2008,9
+2474,E01003935,Southwark,Violence Against the Person,Murder,0,2008,6
+2475,E01003980,Southwark,Violence Against the Person,Murder,0,2008,9
+2476,E01003921,Southwark,Violence Against the Person,Murder,0,2008,4
+2477,E01002444,Hillingdon,Violence Against the Person,Murder,0,2008,1
+2478,E01002475,Hillingdon,Violence Against the Person,Murder,0,2008,11
+2479,E01002475,Hillingdon,Violence Against the Person,Murder,0,2008,3
+2480,E01004621,Wandsworth,Violence Against the Person,Murder,0,2008,7
+2481,E01004552,Wandsworth,Violence Against the Person,Murder,0,2008,6
+2482,E01004642,Wandsworth,Violence Against the Person,Murder,0,2008,9
+2483,E01004489,Wandsworth,Violence Against the Person,Murder,0,2008,10
+2484,E01004721,Westminster,Violence Against the Person,Murder,0,2008,12
+2485,E01004734,Westminster,Violence Against the Person,Murder,0,2008,4
+2486,E01004686,Westminster,Violence Against the Person,Murder,0,2008,7
+2487,E01004668,Westminster,Violence Against the Person,Murder,0,2008,12
+2488,E01004203,Tower Hamlets,Violence Against the Person,Murder,0,2008,7
+2489,E01004314,Tower Hamlets,Violence Against the Person,Murder,0,2008,3
+2490,E01004203,Tower Hamlets,Violence Against the Person,Murder,0,2008,3
+2491,E01004207,Tower Hamlets,Violence Against the Person,Murder,0,2008,2
+2492,E01004670,Westminster,Violence Against the Person,Murder,0,2008,10
+2493,E01004269,Tower Hamlets,Violence Against the Person,Murder,0,2008,4
+2494,E01004314,Tower Hamlets,Violence Against the Person,Murder,0,2008,9
+2495,E01004239,Tower Hamlets,Violence Against the Person,Murder,0,2008,1
+2496,E01004304,Tower Hamlets,Violence Against the Person,Murder,0,2008,4
+2497,E01004264,Tower Hamlets,Violence Against the Person,Murder,0,2008,1
+2498,E01004233,Tower Hamlets,Violence Against the Person,Murder,0,2008,12
+2499,E01004374,Waltham Forest,Violence Against the Person,Murder,0,2008,7
